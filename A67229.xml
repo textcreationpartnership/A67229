@@ -1,0 +1,849 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An anti-christian conspiracy detected, and Satan's champion defeated being a reply to an envious &amp; scurrilous libel without any name to it, called, Work for a cooper : being also a vindication of my book, entituled, The antiquity of the Quakers ... / by me Thomas Wynne.</title>
+            <author>Wynne, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67229</idno>
+            <idno type="STC">Wing W3781</idno>
+            <idno type="STC">ESTC R34103</idno>
+            <idno type="EEBO-CITATION">13790042</idno>
+            <idno type="OCLC">ocm 13790042</idno>
+            <idno type="VID">101824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1055:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An anti-christian conspiracy detected, and Satan's champion defeated being a reply to an envious &amp; scurrilous libel without any name to it, called, Work for a cooper : being also a vindication of my book, entituled, The antiquity of the Quakers ... / by me Thomas Wynne.</title>
+                  <author>Wynne, Thomas.</author>
+               </titleStmt>
+               <extent>54 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, William, fl. 1679-1710. --  Work for a cooper.</term>
+               <term>Antiquity of the Quakers.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101824:1" rendition="simple:additions"/>
+            <p>AN Antichriſtian Conſpiracy DETECTED, AND Satans Champion DEFEATED: Being a Reply to an Envious &amp; Scur<g ref="char:EOLhyphen"/>rilous Libel, without any Name to it, CALLED, WORK for a COOPER.</p>
+            <p>Being alſo a <hi>Vindication</hi> of my Book, entituled, <hi>The Antiquity of the</hi> Quakers; From the Baſe Inſinuations, Falſe Doctrine and Falſe Charge therein contain'd againſt me, my Book, and againſt God's People called QUAKERS in general.</p>
+            <p>
+               <hi>By me</hi> Thomas Wynne.</p>
+            <p>Printed in the Year 1679.</p>
+         </div>
+         <div type="quotations">
+            <pb facs="tcp:101824:2"/>
+            <p>
+               <hi>Iſa. 51.22, 23.</hi> Thus ſaith the Lord, the Lord and thy God, that pleadeth the Cauſe of his people; Behold I have taken out of thy hand the Cup of Trembling, even the Dregs of the Cup of my Fury, thou ſhalt no more drink it again. But I will put it into the hand of them that afflict thee; which have ſaid to thy Soul, Bow down, that we may go over; and thou haſt laid thy Body as the Ground, and as the Street to them that went over.</p>
+            <p>
+               <hi>Micah. 3.5.</hi> Thus ſaith the Lord concerning the Prophets that make my People to Err, that bite with their Teeth, and cry Peace, and he that putteth not into their Mouthes, they even prepare War againſt him.</p>
+            <p>
+               <hi>Matth. 10.25.</hi> It is enough for the Diſciple that he be as his Ma<g ref="char:EOLhyphen"/>ſter, and the Servant as his Lord; if they have called the Ma<g ref="char:EOLhyphen"/>ſter of the Houſe <hi>Beelzebub,</hi> how much more ſhall they call them of his Houſhold?</p>
+            <p>
+               <hi>1 Cor. 1.27.</hi> But God hath choſen the Fooliſh Things of this World to confound the Wiſe; and God hath choſen the Weak Things of the World to confound the Things that are Mighty.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="3" facs="tcp:101824:2" rendition="simple:additions"/>
+            <head>TO THE READER</head>
+            <opener>
+               <salute>Courteous Reader;</salute>
+            </opener>
+            <p>SInce it hath fallen to my Lot, for my love to be requited with Hatred; its my ſatisfaction that I gave no Cauſe, but that in Obedience to di<g ref="char:EOLhyphen"/>vine Requirings I put my Candle on a Candleſtick, and my Talent (although but ſmall) to the Bank; but what Reception into the World it hath had, hath been ſuch as was fore-told by my dear Lord and Maſter Jeſus Chriſt, who ſaid to his Diſciples, <hi>They ſhall ſpeak all manner of Evil againſt you falſly for my Names ſake;</hi> and its ſo now truly come to paſs in our day, as in this particular may plainly appear in my following <hi>Reply;</hi> wherein I have conſider<g ref="char:EOLhyphen"/>ed what I conceived to have any ſeeming weight againſt my Book, and in general have vindicated my Book, my Friends, and the glorious Truth which we profeſs, from my <hi>Adverſary</hi>'s falſe <hi>Charge,</hi> who hath dealt with me as the <hi>Spaniſh Inquiſitors</hi> did by the <hi>Proteſtants,</hi> they clothed them in their <hi>Sambenitoes, viz.</hi> Garments upon which are painted the ſhapes of <hi>Devils,</hi> that the Dogs might the ſooner faſten
+<pb n="4" facs="tcp:101824:3"/>on them and worry them; even ſo hath he, as may be ſeen by the Picture he hath put to front his <hi>Libel;</hi> if he excuſe himſelf, that he crown'd it with a <hi>Windmil,</hi> which might ſtave them off; yet that he was not altogether without a Patern, is very evi<g ref="char:EOLhyphen"/>dent; for if we look back but until the time of our Maſter Chriſt Jeſus his Appearance in the Fleſh, we may find how they mocked him, <hi>John</hi> 19.2. you may ſee how they plated a <hi>Crown of Thorns,</hi> and put it upon his Head; and <hi>Pilate</hi> (as a fit Preſident for the <hi>Libeller</hi>) ſaid, <hi>Behold the Man!</hi> thus all who are moderate may ſee how his Tribe uſed our dear Lord himſelf; therefore I may conclude, he hath dealt with me but in imitation of them, and hath only ſhewed, that he hath not degenerated from the Nature of his Predeceſſors; for in imitation of his Patrons, he blazens it with a Whip and Whip<g ref="char:EOLhyphen"/>ping Poſt in it, as thou mayeſt ſee in the ſecond page of his <hi>Libel,</hi> which were enough of it ſelf to manifeſt him to all men to be neither a <hi>Chriſtian,</hi> nor true <hi>Proteſtant;</hi> for Chriſt would not have Fire come down from Heaven to deſtroy Enemies, much leſs treat his Friends with ſuch Cruelty, who in pure Love viſited the Children of Men, to turn them from their Evil Wayes. My Adverſary in this his ungodly Work doth not reſemble CHRIST and his FOLLOWERS, but is BONNER and GARDNER like; which had he been in their time, could hardly have wanted an Office: And certain it is, that this was not the Method of the true <hi>Proteſtant</hi> Reformers; he might then well
+<pb n="5" facs="tcp:101824:3" rendition="simple:additions"/>conceal his Name, when he would concern him<g ref="char:EOLhyphen"/>ſelf in ſo deteſtable a piece of Abſurdity, ſince that moſt of his Matter was Lyes made at home, and his Book a Bell to Ring them abroad; and it will neither in this World, nor that to come, turn to his Credit, neither to the Prieſts, nor his other Be<g ref="char:EOLhyphen"/>nefactors, who gathered him Money to Print it; for at the great Tribunal, Chriſt Jeſus will not fear to tell them, It was WORK of INIQUITY; for ſaid he, <hi>Inaſmuch as ye have done it to one of the leaſt of theſe my Brethren, ye have done it unto me.</hi>
+            </p>
+            <p>And whereas there is a great deal of Dirt in his Book, which he chargeth on Friends as Matter of Fact, which I have not in particular Replyed to, they being Abominable Lyes and Slanders; as in page 6. he ſayes, <hi>They can, like the Blaſphemous</hi> Muggleton, <hi>fix</hi> Woes <hi>or</hi> Joyes, <hi>a</hi> Bleſſing <hi>or a</hi> Curſe <hi>Everlaſtingly to all Eternity.</hi> And in page twelve, among a great many horrid Lyes, he telleth of ſome did <hi>endeavour to obtrude, that they could fore<g ref="char:EOLhyphen"/>tell to a Minute the Laſt and Dreadful Day of Judg<g ref="char:EOLhyphen"/>ment; and could heal more Diſeaſes than All the World could poſſibly need Help for:</hi> with very ma<g ref="char:EOLhyphen"/>ny more Wicked Lyes up and down his Book, which neither he, nor the Moſt Envious of our Adverſaries, can ever prove againſt any TRUE QUAKER.</p>
+            <p>And as for his calling my Friends <hi>Vile Wretches</hi> and <hi>Coxcombs,</hi> and many more ill Names, and me <hi>Charon</hi> and <hi>Ferryman of Hell,</hi> and much more Ill
+<pb n="6" facs="tcp:101824:4"/>Language, I paſs by, knowing that God will re<g ref="char:EOLhyphen"/>buke him, and plead the Cauſe of the Innocent, therefore I have kept cloſe to what was Matter of Doctrine in it, hoping that to the meaneſt Capa<g ref="char:EOLhyphen"/>city, who will be ſingle, that I have cleared my Self, my Book, God's Truth and People; and manifeſt<g ref="char:EOLhyphen"/>ed his to be grounded on a Foundation that is Sandy, and will not ſtand when our God ſhall make a full Examine of the Matter contained in it.</p>
+            <closer>
+               <signed>Thomas Wynne.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:101824:4" rendition="simple:additions"/>
+            <head>
+               <hi>An</hi> Antichriſtian Conſpiracy <hi>Detect<g ref="char:EOLhyphen"/>ed, and</hi> Satans Champion <hi>Defeated.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The Introduction of</hi> Quaking <hi>and</hi> Trembling.</head>
+               <p>THE bleſſed Truth of God, together with the true Love I bore to my Native Country North-<hi>Wales,</hi> in<g ref="char:EOLhyphen"/>duced me to Salute them with the Book, Intituled, <hi>The Antiquity of the</hi> Quakers. And after its Publication, for a whole Year, I was often told ſometimes of one Prieſt Anſwering it, and ſometimes of another; but at laſt comes out one, not ſubſcribed by any, called, <hi>Work for a Cooper,</hi> which by Gods aſſiſtance I now take in hand, and w ll diſcover to the moderate Reader of what quality ſoever he be, that this Man hath not done like a Man of God at all, which certainly had becom'd him to do, e<g ref="char:EOLhyphen"/>ſpecially, being he ſeems to make himſelf to perſonate ſo great a Society of People, and to be the Mouth of their Prieſts. But inſtead of ſo doing, he hath not come much ſhort of the worſt of men that ever writ againſt us, as will appear by his ſcurrillity, Per<g ref="char:EOLhyphen"/>verſion of my Words, and of Scripture alſo, his many Lyes and Slanders, Detractions and unjuſt Reflections, both upon me and the whole Body of Gods People, called <hi>Quakers,</hi> in general.</p>
+               <p>
+                  <hi>Firſt,</hi> after he hath beſtowed on me and my Friends, about three or four pages of abuſive Reflection, and caſting of Dirt at us, he cul'd out two Teſtimonies out of about thirty, which I brought to prove <hi>Quaking</hi> and <hi>Trembling,</hi> not to be Novel a<g ref="char:EOLhyphen"/>mong Gods People; and how he undertakes to confute me in thoſe two, you ſhall hear anon: But before I make my Reply, I think it convenient to acquaint my Reader how I came to joyn
+<pb n="8" facs="tcp:101824:5"/>my ſelf to thoſe poor deſpiſed and abuſed People of God called <hi>Quakers.</hi>
+               </p>
+               <p>I was Baptized and brought up a <hi>Proteſtant,</hi> and having learn<g ref="char:EOLhyphen"/>ed the Articles of their Faith, and the Prayers of the Church, I thought all was well, untill I was about fifteen Years old, and then ſoon after it happened that I could not find any ſuch Church as I was baptized into; the Wolf was got among them, who tore many of them to pieces, and the reſt fled: So that go to what Church I would, I could find neither Biſhop, Doctor, Prebend, Vi<g ref="char:EOLhyphen"/>car nor Curat, to look after my Soul <hi>(viz.)</hi> not one of my <hi>Proteſtant</hi> Inſtructers, they were all fled and left me to the mer<g ref="char:EOLhyphen"/>cy of the Wolf that had worried them; and for many Years to<g ref="char:EOLhyphen"/>gether there were none of them ſo much as viſited me, nor ſent me ſo much as an Epiſtle or Collect, nor any comfort or hopes.</p>
+               <p>But before I was twenty Years of Age I was amazed and a<g ref="char:EOLhyphen"/>ſtoniſhed to ſee what was come to paſs, and began to reflect upon my ſelf, and to think what would become of my poor Soul, <hi>For thoſe who pretended to be my guides to Heaven were fled, &amp; I knew not the way.</hi> And my Brethren the <hi>Proteſtants</hi> without any more ado, both great &amp; ſmall, went to hear the Hirelings that were then ſet up, unleſs it were here &amp; there one, and moſt of theſe men of low degree, ſuch as they could get nothing off; and when I ſaw it thus come to paſs, I went alſo for company, but found their great mat<g ref="char:EOLhyphen"/>ter was to Exclaim againſt the <hi>Proteſtants,</hi> which hit me upon the Sore: but when I came to inquire ſtrictly after them, I found they did as the <hi>Proteſtants</hi> had done before them, as to that part called Intereſt, they had their Peepers into every ones Field, leſt any ſhould give them a little Sheaf for a great one, and were ex<g ref="char:EOLhyphen"/>cellently skill'd in <hi>Arithmetick;</hi> for they could make their Pa<g ref="char:EOLhyphen"/>riſhoners by a Figure they then had, and the Prieſts now have: If there were but five or ſix Geeſe belonging to a Houſe, make them paſs for Ten, urging as the Libeller doth, pag. 26, 27. <hi>That it was of as much Right to them, as the other five were to the Owner:</hi> They had alſo the ſame way for the Piggs, and were as well skill'd for <hi>Eaſter</hi>-Reckonings and <hi>Midſummer</hi>-Dues, as they call them, I thought theſe did not quadrate well with thoſe, nor can it be Goſpel in the preſent ones; by
+<pb n="9" facs="tcp:101824:5" rendition="simple:additions"/>this time I began to queſtion whether any were then to be found in the right or not: For my Inſtructers were fled, and the others at beſt were but miſerable Comforters; for turn to the Right hand or Left I ſaw Iniquity abound, and then I began to recollect my ſelf, and conſider what my God-Fathers and God-Mothers (ſo called) had promiſed and vowed for me in my Baptiſm, as they called it, <hi>(viz.)</hi> That I ſhould forſake the Devil and all his Works, the Pomps and Vanities of this wicked World, and all the ſinful Luſts of the Fleſh: This indeed was to forſake all Sin; but how to perform I could not tell, for I had loſt my Guides that ſo taught: however I inquired of others, whether this might be performed or not, <hi>No, no,</hi> ſaid they, <hi>none can ever be freed from Sin in this Life.</hi> Then might I well ſay, it was unreaſonable that any ſhould be bound, and ſo ſolemnly as with a Vow to do that which neither they, nor I, nor none in the World could do. I asked then, Whether any could keep the <hi>Chriſtian</hi> Faith, and keep Gods holy Will and Command<g ref="char:EOLhyphen"/>ments, and walk in them all the dayes of their Lives, <hi>No, no,</hi> ſaid they. I afterwards asked both <hi>Proteſtants</hi> and <hi>Papiſts</hi> the ſame, but found them all to agree in this point, <hi>That none could be freed from ſin in this life:</hi> then began my Sorrow to encreaſe, and to be more then I could bear; and this was the time, dear Country-men, that the Almighty God, who is no Reſpecter of Perſons, did break in upon my Soul by his Everlaſting Light, and diſcovered to me the emptineſs of all thoſe great Profeſſions; who only talked Largely and Eloquently of God and Chriſt, and of Religion, as it is at this day, which was and is verified in their Practices, the many great Pretences to Religion was and is but really a purſuing the Error of <hi>Balaam</hi> (viz.) <hi>Gifes and Rewards.</hi> And it was at this time that the Lord raiſed many Witneſſes to proclaim the Controverſie that God had both with Profeſſors and with Prophane; and the Amazing Terrors of God being upon them for ſin, made them exceedingly to Tremble and it was not for fear of the then Powers, nor for fear of Hell, nor of Puniſhment, as the Libeller wickedly inſinuates in pag. 11. for the contrary will appear by their boldneſs in bear<g ref="char:EOLhyphen"/>ing their Teſtimony againſt the Hirelings, and Powers then in Being, whoſe Sufferings were ſo great that much of them could
+<pb n="10" facs="tcp:101824:6"/>could not be recorded, which will to all moderate men ſufficient<g ref="char:EOLhyphen"/>ly reſcue them from the Libellers falſe Inſinuations in p. 8. <hi>That their Trembling was (or is) from a ſervile Fear.</hi> But hear his Anſ<g ref="char:EOLhyphen"/>wer, pag. 4.</p>
+               <p>
+                  <hi>If Fear and Trembling were enough to prove a cer<g ref="char:EOLhyphen"/>tainty of being beloved of God,</hi>
+                  <note place="margin">The Libeller, page 4.</note> 
+                  <hi>then</hi> Balaam<hi>'s Aſs, and the</hi> Demoniacks <hi>among the Tombs,</hi> Faelix <hi>the Hypocrite, and</hi> Judas <hi>that hang'd himſelf for fear of any more ſeeing his Innocent and Righteous Maſter; yea, the</hi> Devils <hi>them<g ref="char:EOLhyphen"/>ſelves might put in for a ſhare too; for St</hi> James <hi>expreſly ſayes,</hi> that they believe and Tremble.</p>
+               <p>
+                  <hi>Reply,</hi> Where hath this Malicious Perverter read in my Book, or in any others of the <hi>Quakers</hi> Writings, <hi>That Fear and Trembling is enough to prove a Certainty of being beloved of God?</hi> Nay, <hi>Serious Reader,</hi> if thou wilt be but juſt to both him and me, thou wilt find no ſuch Word in my Book, as, <hi>That Fear and Trembling is enough to prove any's being beloved of God.</hi>
+               </p>
+               <p>Upon my arguing on about thirty Teſtimonies of holy Writ, of which he hath meddled with Two, which indeed were too many to Pervert as he hath done; and if thou wilt in Mo<g ref="char:EOLhyphen"/>deration read mine, thou wilt find me only inſer from them, <hi>That Quaking and Trembling is no New Thing among God's People; but that it was a State that all God's People paſſed through; and that all now muſt paſs through before ever they can enter God's Kingdom,</hi> according to theſe Scriptures; Sion <hi>ſhall be redeemed with Judgment,</hi> Iſa. 1.27. <hi>And they ſhall Mourn for him, as for an only Son, and be in Bitterneſs as for a firſt born,</hi> Zach. 12. and muſt know God to be as a Reſiners Fire, and as Fullers Soap, and muſt know his Word of Power to be ſharper than a two-edged Sword, to divide between the Joynts and the Marrow. Thus Judgment muſt be ſet up in the Heart for Sin, and then the Cry will be with the Apoſtle <hi>Paul, Oh Wretched Man that I am! who ſhall deliver me from this Body of Sin?</hi> And this my Adverſary muſt come to have Experience of, before he be approved of God to come with a Song, as he ſaith in pag. 4.</p>
+               <p>And this I do aſſure him, as one who hath known the Terrors of the Lord for Sin, That this Power will make him Quake and Tremble, as eaſie a matter as he now thinks it to get to Heaven.</p>
+               <pb n="11" facs="tcp:101824:6" rendition="simple:additions"/>
+               <p> And as for his ſaying, <hi>That</hi> Balaam<hi>'s Aſs, the</hi> Demoniacks, Foelix, Judas, <hi>and the</hi> Devils <hi>might put in for a ſhare,</hi> is very Abſurd. For, <hi>Firſt,</hi> As to <hi>Balaam</hi>'s Aſs, God had not accom<g ref="char:EOLhyphen"/>pliſhed him with an Immortal Soul to ſubſiſt after this Life; therefore not in a capacity to come in for a ſhare: and as to the reſt its alſo very Abſurd, eſpecially the laſt, <hi>(viz.)</hi> the Devils; for although they had a ſence of God's Power, and were terrified thereby, and made to Tremble, yet it was not poſſible for them to have acceptance with God, although be<g ref="char:EOLhyphen"/>lieving and Trembling alſo are acts in his Chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dren, which are accepted of him. And if my Adverſary do not in this Life come to witneſs Fear and Trembling to accompany his believing, he may alſo, when its too late, know the Addition of Quaking and Trembling to his Believing, and then his believing nor trembling will ſtand him in no more ſtead, than the Devil's did unto them.</p>
+               <p>And as for <hi>Judas, Faelix,</hi> and the reſt mentioned by him, in this caſe I ſay, as the Apoſtle ſaith, <hi>God's Will is that all men may know the Truth and be ſaved.</hi> God ſaid by the Mouth of the Prophet, <hi>I have no pleaſure in the Death of the Wicked, but that the Wicked turn from his Evil Way and live.</hi> So <hi>Judas</hi> and <hi>Faelix,</hi> and the reſt, had a Day or Time of Viſitation from God, in which Time they might have turned to God, and have had a ſhare in his Salvation. And <hi>Judas,</hi> and all others, who have no ſhare in the Salvation of God, their Deſtruction is of them<g ref="char:EOLhyphen"/>ſelves, and the Lord God is clear and juſt in giving them their Portion in the Lake of Endleſs Miſery, becauſe, as he ſaith in <hi>Proverbs,</hi> Chap. 1. <hi>When I called, ye would not anſwer; when I ſtretched out my Hand, no Man regarded; they ſet at naught all my Counſel, and would have none of my Reproof, &amp;c.</hi> And Chriſt ſaid unto the Rebellious <hi>Jews, Ye will not come to me that ye might have Life.</hi> And he ſaid to <hi>Jeruſalem, I would have gather<g ref="char:EOLhyphen"/>ed thy Children together as a Hen gathereth her Chickens under her Wings, but ye would not.</hi> And God ſaid unto the Rebellious <hi>Jews, O</hi> Iſrael, <hi>thou deſtroyeſt thy ſelf, but in me is thy Help.</hi> Chriſt lighteth every one that cometh into the World; and God doth require all men to believe and obey. <hi>Chriſt caſted Death for every man,</hi> as ſaith the Apoſtle. And the Apoſtle <hi>John</hi> ſaith
+<pb n="12" facs="tcp:101824:7"/>
+                  <hi>He is the Propitiation for our Sins, and not for our Sins only, but alſo for the Sins of the whole World. Judas</hi> partook of the Mini<g ref="char:EOLhyphen"/>ſtry, and by Tranſgreſſion he Fell.</p>
+               <p>In oppoſition to Trembling he goes on, quoting <hi>Luke</hi> 1.<note place="margin">The Libeller, pag. 4.</note> 
+                  <hi>That being delivered from the hands of our Enemies, might ſerve God without fear in Righ<g ref="char:EOLhyphen"/>teouſneſs and Holineſs all the dayes of our Lives.</hi>
+               </p>
+               <p>
+                  <hi>Reply,</hi> Is it not to be delivered from our Enemies to be deli<g ref="char:EOLhyphen"/>vered from Sin, which is a cauſe of Fear and Trembling? And if my Adverſary had been really awakened, as in his Scrullious <hi>Welch</hi> Letter he ſaith he is, he might have ſeen two States (or Con<g ref="char:EOLhyphen"/>ditions) couched in theſe words; <hi>Firſt,</hi> A State of Sin and Bondage: And <hi>Secondly,</hi> A State of being delivered from Sin and Bondage. And I hope he, or at leaſt, all Moderate men will grant, that the Words <hi>being delivered,</hi> are words in the Preſent Tenſe: So that Deliverance was there witneſſed, which was the cauſe of his Confidence of ſerving the Lord with<g ref="char:EOLhyphen"/>out fear; yet I muſt tell him; Not without fear of ſinning againſt God, but without fear of Hell, Devils, Men or Puniſhment; but this is a ſtate the Prieſts do deny, that deliverance from ſin is attainable in this Life, and then the other ſtate of ſerving God in Righteouſneſs and Holineſs cannot be expected. And let my Adverſary know, that God will not call that Righteous and Holy that is mixed with Sin; neither are any delivered from their Enemies until they be delivered from Sin; and until then, let the Libeller Fear and Dread coming before the Lords Pre<g ref="char:EOLhyphen"/>ſence with a Song, leſt the Lord our God turn his Song into Howling, and his Gladneſs unto Sorrow and Trembling, which he now puts afar off, as his Arguments make manifeſt, yet in one of them he boggles ſtanding to his Argument. Hear him.</p>
+               <p>
+                  <hi>And though till we have mortified our Affections and Luſts,</hi>
+                  <note place="margin">Libeller, p. 4.</note> 
+                  <hi>we ought to work out our Salvation with Fear and Trembling; yet after a moſt hearty and profound Repen<g ref="char:EOLhyphen"/>tance, we humbly hope all our paſt <g ref="char:V">Ʋ</g>nrighteouſneſs is forgiven, and our ſins covered, we may then, doubtleſs, come before his Preſence with a Song.</hi>
+               </p>
+               <pb n="13" facs="tcp:101824:7" rendition="simple:additions"/>
+               <p> 
+                  <hi>Reply,</hi> Behold <hi>Reader,</hi> what Confuſion and Contradiction is this! for in his laſt words of the ſame page, in oppoſition to me, and my making Quaking and Trembling to be a ſtate that all muſt paſs through before they come to be in favour with God, he tells of ſerving God without Fear. And now in Contradiction to himſelf, granting me my Argument, he ſaith, <hi>Till we have mortified our Affections and Luſts, we ought to work out our Salvation with Fear and Trembling.</hi> This looks as if the man then immediate<g ref="char:EOLhyphen"/>ly had found himſelf ſmitten of God in his own Conſcience; but how this will agree with the Prieſts Faith, <hi>That no mans ſin can be wholly mortified in this Life,</hi> I leave to the Impartial to judge. His Confuſion is, <hi>He hath left no room for ſerving God in Holineſs and Righteouſneſs; for its</hi> Proteſtant <hi>Doctrine, that none can be freed from ſin in this Life.</hi> If ſo, they muſt be mortifying their Luſts during Life; and ſo by his own Argu<g ref="char:EOLhyphen"/>ment muſt Fear and Tremble during Life, and ſo hath no place for his coming before God's Preſence with his Song.</p>
+               <p>Yet in Cotradiction to <hi>Proteſtant</hi> Faith, and to his own, as he hath ſtated it,<note place="margin">Libeller, p. 5.</note> he quotes <hi>Paul</hi> and <hi>David</hi>'s rejoycing, <hi>Rejoyce in the Lord alwayes, &amp;c. There is a Light ſprung up for the Righteous, and joyful gladneſs for ſuch as are true-hearted.</hi>
+               </p>
+               <p>
+                  <hi>Reply,</hi> It had become him here to have diſtinguiſhed the Righ<g ref="char:EOLhyphen"/>teous and True-hearted, and have told me the place where and time when any man comes to be ſuch, ſince its the Papiſt, Do<g ref="char:EOLhyphen"/>ctrine, <hi>That men firſt muſt go to Purgatory before they can be ſuch:</hi> And the profeſt <hi>Presbyter, Independent</hi> and <hi>Baptiſt</hi> ſay, <hi>None can be ſuch in this Life;</hi> then ſince its our Faith, as well as theirs, that there is no ſuch place of Purgatory after this Life, my Op<g ref="char:EOLhyphen"/>ponent ſhould have told then poſitively the place where and time when any is Righteous.</p>
+               <p>
+                  <hi>This was the Belief of thoſe Saints who were no</hi> Quakers,<note place="margin">Libeller p. 5.</note> 
+                  <hi>however diſguſted by thoſe</hi> Quakers <hi>who are no Saints.</hi>
+               </p>
+               <p>
+                  <hi>Reply,</hi> Is not this to contradict himſelf again, who confeſſed <hi>
+                     <g ref="char:V">Ʋ</g>ntil we have mortified our Luſts, we ought to work out our Sal<g ref="char:EOLhyphen"/>vation with Fear and Trembling?</hi> It ſeems as if it were part of
+<pb n="14" facs="tcp:101824:8"/>his own Belief, elſe he ſaith, he ought to do that which is no p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt of his Belief: This doth not make it appear that the Saints he ſpeaks of were no <hi>Quakers,</hi> nor the preſent <hi>Quakers</hi> no Saints. He quotes again pag. 10. <hi>Sorrow endures for a Night,</hi>
+                  <note place="margin">Libeller, p. 10.</note> 
+                  <hi>but Joy cometh in the Morning.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> Is not Sin the work of that Night the Prophet ſpeaks of there? &amp; ſince that Sorrow muſt continue during that Night, then ſure Quaking and Trembling may be comprehended in the word <hi>Sorrow;</hi> then it ſtill maintain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my Argument: And what can be more clear then that all muſt paſs through a ſtate of Sorrow be<g ref="char:EOLhyphen"/>fore they come to know true rejoycing? And what's that Joy which cometh in the Morning? Is it not in this Life to witneſs the Morning Star, Chriſt Jeſus, to expel all the Deeds of Darkneſs by his Bright Appearance in the Soul? and who thus come to witneſs this Bright and Morning Star to ariſe in their Hearts, ſuch come to know the Rejoycing that <hi>Paul</hi> and <hi>David</hi> were come to; and great cauſe they have, when come truly to expe<g ref="char:EOLhyphen"/>rience God's taking the Cup of Trembling from them, and gi<g ref="char:EOLhyphen"/>ving the Cup of Salvation unto them inſtead thereof. And that it was thus with <hi>Paul</hi> and <hi>David,</hi> that they paſſed through a great Gulf of Sorrow and Trembling will further appear by theſe following Teſtimonies of theirs. Acts 9.5, 6. And he ſaid, <hi>Lord, what wilt thou have me to do? I am Jeſus whom thou perſecuteſt, its hard for thee to kick againſt the Pricks; And he Trembling &amp; Aſtoniſhed ſaid, Lord, What wilt thou have me to do?</hi> Rom. 7.24. <hi>Oh wretched Man that I am! who ſhall deliver me from this Body of Death?</hi> Read the Chapter thoroughout, and ſee what Exerciſes he had in the Warfare with Sin. 2 Cor. 11. <hi>Knowing therefore the Terrors of the Lord, we perſwade men:</hi> with many more Teſtimonies cited in my Book to this purpoſe.</p>
+               <p>Now here what the Prophet <hi>David</hi> ſaith to this matter, <hi>Pſal.</hi> 38.1, 2, 3, 4, 5, 6, 7, 8.</p>
+               <p n="2">2. <hi>Thine Arrows ſtick faſt in me, and thy hand preſſeth me ſore</hi>
+               </p>
+               <p n="3">3. <hi>There is no Soundneſs in my Fleſh becauſe of thine Anger Neither is there any reſt in my Bones becauſe of my Sin.</hi>
+               </p>
+               <p n="4">4. <hi>For mine Iniquities is gone over my Head as a heavy burden, they are too heavy for me.</hi>
+               </p>
+               <p n="5">
+                  <pb n="15" facs="tcp:101824:8" rendition="simple:additions"/> 5. <hi>My VVounds ſtinck and are Corrupt becauſe of my fooliſh<g ref="char:EOLhyphen"/>neſs.</hi>
+               </p>
+               <p n="6">6. <hi>I am troubled, I am bowed down greatly, I go Mourning all the Day long.</hi>
+               </p>
+               <p n="7">7. <hi>For my Loyns are filled with a loathſome Diſeaſe, and there's no ſoundneſs in my Fleſh.</hi>
+               </p>
+               <p n="8">8. <hi>I am feeble and ſore broken, I have roared by reaſon of the diſquietneſs of my Heart.</hi>
+               </p>
+               <p>Now had <hi>Paul</hi> and <hi>David</hi> been in our time, and our <hi>Libeller</hi> had ſeen them in theſe Exerciſes, and heard their Cryes, their Groans, Roarings and Terrors becauſe of their Sins, thou mayſt judge by his Book how he would have treated them.</p>
+               <p>Hear <hi>David</hi> a little further, <hi>Pſal.</hi> 55. <hi>Fearfulneſs and Trem<g ref="char:EOLhyphen"/>bling are come upon me, and Horror hath overwhelmed me.</hi> See more of him in my <hi>Antiquity of the</hi> Quakers, Job 3.28. <hi>My Bowels boyled and reſted not, the Day of Affliction prevented me; I went Mourning without the Sun, I cryed in the Congregation, my Skin is black upon me, my Bones are burnt with heat, my Harp alſo is turned to Mourning, and my Organ unto the Voice of them that weep.</hi> I might multiply Teſtimonies to this, but theſe may evidence to all who are not given up to a Reprobate Spirit, that its yet too timely for my Adverſary to come with his Song be<g ref="char:EOLhyphen"/>fore the Lord our God. Nay, nay, its my Teſtimony to all, of what Perſwaſion ſoever, that there's none ſhall enter God's Kingdom until firſt they have paſſed through a ſtate of Sorrow and great Mourning; yea, Quaking and Trembling becauſe of ſin; and he that gets out of this Furnis, and not purified in it of his Droſs, and purged of his Tin, he will not be currant Mettal to paſs into the Kingdom of our Lord Jeſus Chriſt, but whoſoever comes to witneſs a paſſing through this Diſpenſation of Sorrow, and come to know experimentally the cauſe of it taken away, (viz.) <hi>To be delivered from their Enemies,</hi> Luke 1 ſuch only may approach the Preſence of our God with a Song; yea, with a Song of Deliverance, even the Song of <hi>Moſes</hi> and the Lamb.</p>
+               <p>Then after he hath beſpattered us with a great deal of Lyes and Dirt in pag. 5. (as indeed little elſe is to be found in his Book,
+<pb n="16" facs="tcp:101824:9"/>except ſome Scripture-Quotations) and to purſue him in all his Dirt, were near to tranſcribe his Book. In page 6. he be<g ref="char:EOLhyphen"/>gins on one of my Scripture Teſtimonies.</p>
+               <p>
+                  <hi>And this is evidenced by his 4th page, where he obſerves with a World of Wit,</hi>
+                  <note place="margin">Libeller, p. 6.</note> Iſaac <hi>trembled for ha<g ref="char:EOLhyphen"/>ving miſtaken</hi> Jacob <hi>for</hi> Eſau; <hi>and then preſently infers, that</hi> Iſaac <hi>was a</hi> Quaker: <hi>A ſtrong and choice way of arguing by which he makes him pay dearer for his inadvertance than ever</hi> Eſau <hi>was forced to do.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> This as much ſhews him a Stranger to the two Seeds, Tipified by <hi>Jacob</hi> and <hi>Eſau,</hi> as what he hath ſaid before ſhews him a ſtranger to the two States, ſpoken of before; he could not ſee how one Miſery uſhered in another on <hi>Eſau. Firſt,</hi> He had ſold his Birth right for a meſs of Pottage; and now by Hunting had loſt the bleſſing alſo: And could <hi>Iſaac</hi> be leſs then in great Sorrow and Dread to ſee the ſad State that <hi>Eſau</hi> was come unto? And was not <hi>Eſau</hi>'s Hunting a true Figure of his and other mens wandring abroad from the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft of God within them? and <hi>Iſaac</hi> having a true ſence of this made him Quake and Tremble; but how he paid dearer for his Inadvertance than <hi>Eſau</hi> had need to do, is yet for my Adverſary to prove; for <hi>Eſau</hi> could not find a place of Repentance, although he ſought it with Tears: By this any ſober man may (endued with hea<g ref="char:EOLhyphen"/>venly Wiſdom) ſee the Unſoundneſs of this his Argument.</p>
+               <p>Then he goes on thus, <hi>Then</hi> Iſaac <hi>it ſeems was not beyond the poſſibility of a miſtake,</hi>
+                  <note place="margin">Libeller, p. 6.</note> 
+                  <hi>which</hi> Quakers <hi>af<g ref="char:EOLhyphen"/>firm they are not ſubject to.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> This is an abſolute Forgery, for the <hi>Quakers</hi> do not at<g ref="char:EOLhyphen"/>tribute to themſelves any priviledge above others, but as they are led and guided by the Unerring Spirit and Power of God with<g ref="char:EOLhyphen"/>in; and becauſe we have by true experience found it to be the only thing that keeps out of Miſtakes, we commend all others to the Guidance of it.</p>
+               <p>He tells, <hi>That thoſe People mentioned in the 9th of</hi> Ezra <hi>were the</hi> Quakers <hi>Meeting.</hi>
+                  <note place="margin">Libel. p. 7.</note> Its well he did not ſay at <hi>Holy VVell</hi> or <hi>Cayrwis.</hi>
+               </p>
+               <pb n="17" facs="tcp:101824:9" rendition="simple:additions"/>
+               <p> 
+                  <hi>Reply,</hi> There's nothing in all this that doth invalid my Teſti<g ref="char:EOLhyphen"/>mony with any ſober man, that will read my Quotations; but if I had ſaid it had been at <hi>Hollywell</hi> or <hi>Caerwis,</hi> then I had been like unto him: But it ſeems the <hi>Quakers</hi> Meetings there do ſeem to trouble him; but he tells nothing of other Meetings neither at <hi>Hollywell</hi> nor <hi>Caerwis</hi> (viz.) on their <hi>Sundayes</hi> at their Ser<g ref="char:EOLhyphen"/>vice time, great Meetings of Men and Women, with <hi>Fidlers,</hi> to Revel and Roar, Swear, Dance and Sing, yea, the ſame up and down the Country, and Morricedances, Waxe<g ref="char:cmbAbbrStroke">̄</g>s, Enter<g ref="char:EOLhyphen"/>ludes, Foot-ball, Nine pins and Tennis, &amp;c. And if my Adver<g ref="char:EOLhyphen"/>ſary be <hi>William Jones,</hi> as many ſay he is, his Practice (without wronging of him) may certainly be brought under this Chara<g ref="char:EOLhyphen"/>cter; and I would adviſe him (if he do not think it ſcorn to take it) not to think that God will be ſerved with ſuch Rejoy<g ref="char:EOLhyphen"/>cing.</p>
+               <p>As for his quoting the 6th Verſe of <hi>Ezra</hi> 9. it makes much for me, as any impartial Reader will find, if he examine mine and his.</p>
+               <p>Ezra <hi>does moſt evidently acquit himſelf of the Charge; for he aroſe, and made all the Chief Prieſts and</hi> Levites <hi>to ſwear, &amp;c. Hear him further, he ſays,</hi>
+                  <note place="margin">Libel, p. 7.</note> That <hi>Ezra</hi> was a <hi>Quaker; yet he dares not forſooth do what that</hi> Quaker <hi>did, though but according to Law: he would perſwade us, that all</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>are guided by the ſame Spirit; how then come they ſo much to diſagree?</hi> Ezra <hi>and all</hi> Iſrael <hi>did Swear; but our Wiſe Man of</hi> Gotham <hi>is endued with a greater Light, &amp;c. then moſt certain it is, that theſe</hi> Iſraelites <hi>were no true</hi> Quakers, <hi>nor theſe</hi> Quakers <hi>no true</hi> Iſraelites.</p>
+               <p>
+                  <hi>Rep.</hi> This ſtill ſhews the man as ignorant of the two Diſpen<g ref="char:EOLhyphen"/>ſations, <hi>viz.</hi> of the <hi>Law</hi> and <hi>Goſpel;</hi> as what he ſaid before ſhewed him a Stranger to the two States and two Seeds ſpoken of already, and as ignorantly he mentions a Diſagreement be<g ref="char:EOLhyphen"/>tween thoſe <hi>Iſraelites,</hi> who were true <hi>Quakers,</hi> that ſwore then; and theſe <hi>Iſraelites</hi> after the Spirit, who are true <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> but will not Swear now; for thoſe <hi>Iſraelites</hi> were under the Covenant of Circumciſion, made their Offerings with the Blood of Bulls and Goats, &amp;c. and did it by God's Appoint<g ref="char:EOLhyphen"/>ment,
+<pb n="18" facs="tcp:101824:10"/>and by the Aſſiſtance of God's Spirit; but under the Goſpel-Diſpenſation Chriſt Jeſus diſannulled all theſe, &amp; he ſaith, <hi>Swear not at all:</hi> and the true <hi>Iſrael,</hi> who are <hi>Quakers,</hi> are guided by God's Eternal Spirit now not to ſwear at all: and there's no ſuch diſagreement between us and the <hi>Iſraelites</hi> of old, as my Antogoniſt would fain inſinuate; and he might as well ſeek to bring us under all the Bondage of the firſt Prieſthood, as under that of Swearing; for Chriſt hath as ſtrictly forbidden Swearing as he did the reſt of the Shadows and Ceremonies of the <hi>Levitical</hi> Prieſthood, as may appear plainly <hi>Mat.</hi> 5. <hi>It hath been ſaid by them of old, Thou ſhalt not Forſwear thy ſelf, but ſhalt perform to the Lord thine Oaths.</hi>
+               </p>
+               <p>This Text of it ſelf is enough to prove all Swearing to be unlawful under the Goſpel-Diſpenſation, notwithſtanding that under the Law an Oath was to end Strife, yet Chriſt in his Pro<g ref="char:EOLhyphen"/>hibition did as perfectly forbid this, as he did the other Points which he treated of in the ſame Chapter.</p>
+               <p>The common Objection is, <hi>That he only Prohibited Vain Oaths.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words themſelves fully import, that it was the <hi>Oaths</hi> allowed of by the <hi>Iſraelites, Patriarchs</hi> and <hi>Prophets;</hi> for they were the Men which Chriſt Jeſus quoteth, which of old ſaid, <hi>Thou ſhalt not Forſwear thy ſelf, but perform to the Lord thine Oaths.</hi> Mark, here was of old an Allowance to Swear and Perform.</p>
+               <p>But to all thoſe that ſay, <hi>That the Oaths there mentioned to be performed, were Needleſs or Vain Oaths:</hi> I anſwer.</p>
+               <p>The Oaths there to be performed, were the Oaths which were to be ſworn in Truth, in Righteouſneſs and in Judgment; therefore certainly the Oaths before a Magiſtrate, and not Vain Oaths: for it would be Abſurdity to ſay, that Chriſt or the ho<g ref="char:EOLhyphen"/>ly Ancients did impoſe vain Oaths to be performed; therefore it was the Solemn Oathes before the Magiſtrate, which is clear<g ref="char:EOLhyphen"/>ly proved by theſe and other Examples in that Chapter, as one which Chriſt quote<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the ſame Law. <hi>Moſes</hi> (ſaid he) <hi>be<g ref="char:EOLhyphen"/>cauſe
+<pb n="19" facs="tcp:101824:10" rendition="simple:additions"/>of the Hardneſs of your Hearts, gave a Bill of Divercement; but I ſay unto you, that he that puts away his Wife, except for Adul<g ref="char:EOLhyphen"/>tery.</hi> Mark here, he make, an Exception <hi>[Except for Adultery]</hi> Now if the Oaths be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore-mentioned, that he prohibited, had been only vain Oaths, he, fore-ſeeing what Controverſies would ariſe a<g ref="char:EOLhyphen"/>bout them, as well as about putting away Wives, would cer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ly not have left his People in the dark in ſo important or weighty a Matter; but would in this Caſe, as well as in the other above<g ref="char:EOLhyphen"/>ſaid, have ſaid, <hi>Swear not at all, Except when lawfully called before a Magiſtrate.</hi> The Apoſtle is very poſitive, <hi>James</hi> 5. <hi>Above all things Swear not, neither by Heaven, Earth nor any other Oath, leſt ye fall into Condemnation.</hi> But becauſe we are thought ſingu<g ref="char:EOLhyphen"/>lar in this Point, read the following Teſtimonies of Fathers and <hi>Proteſtants,</hi> who denyed all Oaths as well as we.</p>
+               <p>
+                  <hi>Polycarpus,</hi> who was ſaid to have been Diſciple to <hi>John,</hi> one of the Apoſtles, who at his Death was bid to <hi>Swear and Defie Chriſt, &amp;c.</hi> he ſaid,<note place="margin">
+                     <hi>Euſeb.</hi> Eccleſ. Hiſt. lib. 4. cap. 14.</note> 
+                  <q>Fourſcore years have I ſerved him, yet he never offended me in any thing. Further ſaid, I am a Chriſtian.</q>
+               </p>
+               <p>
+                  <hi>Peter Martyr,</hi> a famous man, was of his mind, <hi>Apol.</hi> 2. <hi>pro Chriſtianis ad auten. pium. oper.</hi> pag. 63.</p>
+               <p>
+                  <hi>Chryſoſtom</hi> on <hi>Gen. Hom.</hi> 15.</p>
+               <p>He being a famous man in the Church ſaith, <q>A <hi>Chriſtian</hi> muſt flee Oaths by all means. Further he ſaith, 'It is not law<g ref="char:EOLhyphen"/>ful to Swear, neither in a Juſt nor Unjuſt Thing; for to Swear (ſaid he) is of the Devil, ſeeing Chriſt ſaid, <hi>Whatſoever is more than yea, yea, nay, nay, cometh of Evil.</hi>
+                  </q> This <hi>Chryſoſtom</hi> was Overſeer of the Church at <hi>Conſtantinople.</hi>
+               </p>
+               <p>
+                  <hi>Auguſtine de Sermone Domini, Serm.</hi> 28.</p>
+               <p>
+                  <q>It is not lawful for a <hi>Chriſtian</hi> to Swear, when an Oath is re<g ref="char:EOLhyphen"/>quired of him.</q>
+               </p>
+               <p>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> antient <hi>Waldenſes,</hi> who were <hi>Proteſtants,</hi> denyed the
+<pb n="20" facs="tcp:101824:11"/>taking any Oaths; and Biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> took their part againſt <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> who were Swearers. Vid. <hi>Baron. ann.</hi> 1310. <hi>Jo. Wald. adv. Wickliff &amp; Wald de ſucceſ.</hi> l. 6.</p>
+               <p>The <hi>Plow-man</hi>'s Complaint.</p>
+               <p>
+                  <q>Lord, thou gaveſt us a Command of Truth, in bidding us ſay, <hi>Yea, yea,</hi> and <hi>Nay, nay;</hi> but, Lord, He <hi>(Pope)</hi> that calls himſelf thy <hi>Vicar</hi> on Earth, hath broken the Commandment, ſo makes a Law to compel men to Swear.</q>
+               </p>
+               <p>
+                  <hi>John Wickliff,</hi> our famous Country-man, in the time of <hi>Edward</hi> the 3d and <hi>Richard</hi> the 2d,<note place="margin">
+                     <hi>Book Mart.</hi> vol. 1. p 554. to 558</note> was accuſed among other things for maintaining, <q>That All Oaths made in any Bargain or Con<g ref="char:EOLhyphen"/>tract between man and man, are unlawful.</q>
+               </p>
+               <p>
+                  <hi>William Thorp,</hi> an eminent man of the <hi>Chriſtian</hi> Church, re<g ref="char:EOLhyphen"/>fuſed to ſwear upon a Bible, <q>Becauſe, ſaid he, a Book is nothing elſe but divers Creatures of which it is made,<note place="margin">
+                        <hi>Book Mart</hi> v. 1, p. 701.</note> and ſuch Swearing is ever Un<g ref="char:EOLhyphen"/>lawful.</q>
+               </p>
+               <p>
+                  <hi>Elizabeth Young,</hi> at her Examination in Queen <hi>Mary</hi>'s days, before the <hi>Catholick</hi> Inquiſitors (ſo called, who co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>manded her to Swear as followeth.</p>
+               <p>Dr. <hi>Martin,</hi> Thou ſhalt be rack't inch-meal, thou T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aiter<g ref="char:EOLhyphen"/>ly Whore and Heretick; but thou ſhalt Swear before a Judge before thou go.</p>
+               <p>Eliz. Young, <hi>I underſtand not what an Oath is, and therefore will take no ſuch thing.</hi>
+               </p>
+               <p>Dr. <hi>Martin,</hi> She refuſed to Swear upon the four Evangeliſts;<note place="margin">
+                     <hi>Book Mart.</hi> vol 3. pag. 510.911.</note> for I my ſelf and Mr. <hi>Pluſſey</hi> have had her before us four times, but we cannot bring her to ſwear.</p>
+               <p>Then ſaid the Biſhop, Why wilt thou not ſwear before a Judge?</p>
+               <p>Eliz Young, <hi>My Lord, I will not Swear that this Hand is mine.</hi>
+               </p>
+               <p>No, ſaid the Biſhop; and why?</p>
+               <pb n="21" facs="tcp:101824:11" rendition="simple:additions"/>
+               <p> Eliz. Young, <hi>Chriſt ſaith, that Whatſoever is more than Yea, Yea, or Nay, Nay, cometh of Evil.</hi>
+               </p>
+               <p>The <hi>Chriſtian Proteſtants</hi> in the Valley of <hi>Piedmo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> who were cruelly tortured to Death by the <hi>Papiſts</hi> a<g ref="char:EOLhyphen"/>bout the year 1655. one Article alledged againſt them was,<note place="margin">
+                     <hi>Marol.</hi> Hiſt. p. 217, 218.</note> 
+                  <hi>That they believed it was not lawful to Swear any thing, be it true or falſe.</hi>
+               </p>
+               <p>
+                  <hi>Eraſmus</hi> in his Commentaries on <hi>Matth.</hi> 5. <hi>James</hi> 5. plainly forbids All Swearing.</p>
+               <p>There are ſeveral Teſtimonies of <hi>John Huſſe. Jerom</hi> of <hi>Prague, William Swinderley, Walter Brute, William Sawtry, William White,</hi> who were famous men in their time, that refuſed all Swearing.</p>
+               <p>Behold, Reader how our <hi>Proteſtant Libeller</hi> is apoſtatized from the firſt reformed <hi>Proteſtants.</hi>
+               </p>
+               <p>I might have quoted many others of the famous Fathers, and worthy <hi>Proteſtant</hi> Reformers; who gave their Teſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mony againſt all Oaths.</p>
+               <p>And here's a Superſtructure built upon the good Foundation Chriſt Jeſus; and its in vain for my preſent Oppoſer or any other to bring up Circumciſion, the Blood of Beaſts, or Oaths, which were allowed in the firſt Covenant, but diſannulled and prohi<g ref="char:EOLhyphen"/>bited in the ſecond; for no other Foundation can be laid (that will ſtand) but that which is laid, even Jeſus Chriſt, whoſe hea<g ref="char:EOLhyphen"/>venly Spirit, <hi>which doth enlighten everyone that comes into the World,</hi> hath appeared in Power and great Glory, which hath brought a Remnant ſo far in Obedience to his bleſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Com<g ref="char:EOLhyphen"/>mand, that they dare not Swear at all:</p>
+               <p>
+                  <hi>Had he any Ingenuity or Senſe, he had never been ſo ſilly as to think, that Quaking and Trembling were enough to de<g ref="char:EOLhyphen"/>nominate a juſt or good man by,</hi>
+                  <note place="margin">Libeller, pag 9<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>yet is ſo fond of the Con<g ref="char:EOLhyphen"/>ceit, as if there were no other way poſſible to get to Hea<g ref="char:EOLhyphen"/>ven but this; and might as well have affirmed, that to be Surly and Churliſh, Ignorant and Singular, Envious and <g ref="char:V">Ʋ</g>nmannerly, Diſ<g ref="char:EOLhyphen"/>ſembling
+<pb n="22" facs="tcp:101824:12"/>and Hypocritical, had been the only way to pleaſe God, and the certain Character to know the Inſpired and Heavenly-minded by.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> Reader, I ſhewed thee before how he had charged me in p. 4. of his Book with this Falſity of thinking that Quaking and Trembling was enough to prove a man's being beloved of God<g ref="char:punc">▪</g> and now he renews the Charge, though it be a Lye, and accounts me ſilly for thinking that which I never did think, nor had he ground to think I ever did: he farther ſays, <hi>I am ſo fond of the Conceit, as if there were no other way poſſible to get to Heaven.</hi> By this it ſeems he thinks to get ſome other way to Heaven, which indeed is a Contradiction to his own Confeſſion, pag. 4. for he ſaith there, <hi>That till he had mortified his Affections and Luſts, he ought to work out his Salvation with Fear and Trem<g ref="char:EOLhyphen"/>bling</hi> [A groſs Contradiction.] Nay, to contradict himſelf more groſly, he adds, <hi>That I might have as well affirmed, that to be Surly and Churliſh, Ignorant and Singular, Envious and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>mannerly, Diſſembling and Hypocritical, &amp;c. were the Way to Heaven.</hi>
+               </p>
+               <p>What can be expected from ſuch a wicked man as this, who one while ſayes, <hi>That till he hath mortified his Affections and Luſts, he ought to Fear and Tremble:</hi> yet ſoon after, in contradiction, ſayes, <hi>It were as well for me to affirm Diſſembling and Hypocriſie to be the way to Heaven, and the certain Character to know the Heavenly-Minded and Inſpired by.</hi> Oh Impious and Wilful Man!</p>
+               <p>But before I cloſe up this Chapter concerning <hi>Quaking</hi> and <hi>Trembling,</hi> with tenders of pure Love I offer, for further clearing of the Point; theſe following Teſtimonies, beſides what I have hinted already.</p>
+               <p>Job 21.6. <hi>When I remember, I am affraid, and Trembling takes hold on my Fleſh.</hi>
+               </p>
+               <p>Pſalm 2.11. <hi>Serve the Lord with Fear, rejoyce with Trem<g ref="char:EOLhyphen"/>bling.</hi>
+               </p>
+               <p>Pſalm 55.5. <hi>Fearfulneſs and Trembling are come upon me, and Horrour hath overwhelmed me.</hi>
+               </p>
+               <p>Pſalm 99.1. <hi>The Lord Reigns, let the People Tremble.</hi>
+               </p>
+               <pb n="23" facs="tcp:101824:12" rendition="simple:additions"/>
+               <p> Pſalm 119.20. <hi>My Fleſh Trembles for fear of thee, and I am affraid of thy Judgments.</hi>
+               </p>
+               <p>Jer. 5.22. <hi>Fear ye not me, ſaith the Lord? will ye not Trem<g ref="char:EOLhyphen"/>ble at my Preſence?</hi>
+               </p>
+               <p>Ezek. 12.18. <hi>Son of Man, eat thy Bread with Quaking, and drink thy Drink with Trembling.</hi>
+               </p>
+               <p>Theſe, with many more, I quoted in my Book, called, <hi>The Antiquity of the</hi> Quakers, which in particular he meddled not with, yet in the general contradicts them, and ſays, pag. 6. <hi>They are clearly for other Purpoſes, and quite of other Meanings, than I intend them for:</hi> But if all were true that he hath ſaid then I had miſſed it indeed; but its his only ſaying ſo, for he hath yet not proved either other Purpoſes or Meanings they have.</p>
+               <p>Now if <hi>Quaking</hi> and <hi>Trembling</hi> were not to be known in the way to Heaven, as he wickedly inſinuates, and that I might as well affirm <hi>Diſſimulation</hi> and <hi>Hypocriſie</hi> to be the way; then in vain was all the Quaking and Trembling of theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly Ancients; and what hath he done leſs than Blaſpheme in this his Aſſertion?</p>
+               <p>And let him and all his Adherents know, that ſince mans un<g ref="char:EOLhyphen"/>happy fall, <hi>Edens</hi> Garden is beſet with a flaming Sword, which guards the Tree of Life that none can come at it, but through Death; and this was the Sword which pierced the Bowels of all the holy Ancients, and divided between the Joynts and the Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>row; this was it that made <hi>Job</hi> to cry out, <hi>His Bowels burned, and his Bones were dryed up with Heat;</hi> this was it that made <hi>Da<g ref="char:EOLhyphen"/>vid</hi> cry and roar untill his Skin was parched upon him, yea, un<g ref="char:EOLhyphen"/>till he was become like a Kettle in the Smoke; this was it that made <hi>Jeremiah</hi> to lay his Mouth in the Duſt, to ſee if there were hopes; this was it the holy Prophets and Apoſtles could ſpeak ex<g ref="char:EOLhyphen"/>perimentally of; and this is the narrow Way and ſtrait Gate, &amp;c. this was it that pricked <hi>Paul</hi> to the Heart, and made him cry out, <hi>Oh wretched man that I am,</hi> &amp;c. and this was it which did over<g ref="char:EOLhyphen"/>take in an acceptable time theſe poor deſpiſed People, called <hi>Quakers</hi> in our Age: And whereas the Libeller in his 11. and 12. pages, ſcurrilouſly tells of their <hi>Trances</hi> &amp; <hi>Diſtortions,</hi> Qua<g ref="char:EOLhyphen"/>king and Trembling, comparing them to <hi>Conjurers</hi> and <hi>Bell-Founders,</hi> &amp;c.</p>
+               <pb n="24" facs="tcp:101824:13"/>
+               <p> 
+                  <hi>Rep.</hi> That the Holy Ancients paſſed through ſuch a State, I have proved before; and when in our day and time the Lord appear<g ref="char:EOLhyphen"/>ed unto us, he appeared in the way of his Judgment for Sin, and the powerful eternal Word of the Lord (which is the Sword of the Spirit) pricked many to their Hearts, and I being one among them, can do no leſs then give in my Teſtimony concerning the Operation or Working of the Heavenly Power, it wounded as a Sword, it ſmote like a Hammer at the whole Body of Sin, &amp; in my Bowels it burned like Fire, yea, ſo dreadfully it burned, that it made by Bowels boyl, it pierced as a Sword, it broke as a Ham<g ref="char:EOLhyphen"/>mer: And then the Pangs of Death I felt in my Members which did make me to roar, yea, and to Quake and Tremble: for this Fire, when it burned, it gave Light, as its the Nature of Fire to do, and it diſcovered to me and theſe poor deſpiſed People the great body of Sin and Death, which was indeed terrible to behold; and not only ſo, but it diſcovered the narrowneſs of the Gate, and that there was no going in thereat, but by firſt having all that combuſtable Body of Sin and Death deſtroyed and burnt up, at this time did great Terror and Amazement fall upon many; and this my Oppoſer muſt come experimentally to know and witneſs in this Life, or elſe his latter End will be mi<g ref="char:EOLhyphen"/>ſerable.</p>
+               <p>And as for his telling of a great Change within this 12. or 14. Years; I ſay there is a Change, Glory to God for the fame, for many are paſſed from Death to Life, and do witneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the work of Regeneration in them, and can ſing the Song of <hi>Sion,</hi> even the Song of <hi>Moſes</hi> and the Lamb, <hi>to whom by them, and all the Hoſt of Heaven, be ſung Halelujahs for evermore.</hi> So here's great alteration indeed, Life and Immortality brought to Light through the Goſpel, them who were dead in Sins and Treſpaſſes are quickened and made alive; they who were Alians and Stran<g ref="char:EOLhyphen"/>gers to God, made Fellow-Citizens of the <hi>New Jeruſalem;</hi> and the Prodigal Son, who had been feeding among the Swine on Husks, brought home into the Father's Houſe, where there's living Bread enough, yea, and Wine alſo well refined; and he ſaith, <hi>Ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Oh Friends, yea, drink abundantly Oh Beloved.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="25" facs="tcp:101824:13" rendition="simple:additions"/>
+               <head>CHAP. II. <hi>of</hi> TYTHES.</head>
+               <p>
+                  <hi>THe Tythes,</hi>
+                  <note place="margin">Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eller, pag 24.</note> 
+                  <hi>the chief Cauſe of all his grumbling, are but a Portion which God himſelf out of his own Word hath given ſuch as miniſter about holy things.</hi>
+               </p>
+               <p>
+                  <hi>Reply,</hi> We do not read either in the Old or New Teſtament, that God perpetuated the <hi>Levitical</hi> Prieſthood to be in force in Goſpel Times; and its my Faith in God, <hi>That they who take Tythes, or give Tythes, in Goſpel Times, deny Chriſt come in the Fleſh, and ſo are of Antichriſt;</hi> my Reaſons are as follow<g ref="char:EOLhyphen"/>eth:</p>
+               <p>
+                  <hi>Firſt,</hi> That the <hi>Levitical</hi> Prieſthood was by it ſelf a diſtinct Prieſthood, which Chriſt Jeſus, by offering up himſelf once for all, hath ended.</p>
+               <p>
+                  <hi>Secondly,</hi> That under that Prieſthood the Prieſts were to have but a Part of the Tythes; for the Poor, the Stranger, the Fatherleſs and Widows were to be maintained out of it.</p>
+               <p>Deut. 14.28. <hi>And at the end of three years thou ſhalt bring forth all the Tythe of thine Increaſe the ſame year, and ſhalt lay it up within thy Gates; and the</hi> Levite, <hi>becauſe he hath no Inheri<g ref="char:EOLhyphen"/>tance with thee, and the Stranger, and the Fatherleſs and Widows, which are within thy Gates, ſhall come and eat and be ſatisfied; that the Lord thy God may bleſs thee in all the Works of thy Hands, which thou doſt.</hi>
+               </p>
+               <p>Mark Reader, the Uſe of Tythes in their firſt Inſtitution were for the Stranger, the Fatherleſs and Widows, they we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to eat and be ſati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied of them; (a very pious Uſe under that D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpenſation) and the Prieſts had only a ſhare with them.</p>
+               <p>Deut. 18. verſ. 1, 2, 3. <hi>The Prieſts, the</hi> Levites, <hi>and all thè
+<pb n="26" facs="tcp:101824:14"/>Tribe of</hi> Levi, <hi>ſhall have no Inheritance with</hi> Iſrael; <hi>they ſhall eat the Offerings of the Lord made by Fire, and his Inheritance.</hi>
+               </p>
+               <p n="2">2. <hi>Therefore they ſhall have no Inheritance among their Bre<g ref="char:EOLhyphen"/>thren; the Lord is their Inheritance, as he hath ſaid unto them.</hi>
+               </p>
+               <p n="3">3. <hi>And this ſhall be the Prieſts due from the People, for them that offer a Sacrifice, whether it be Ox or Sheep, they ſhall give un<g ref="char:EOLhyphen"/>to the Prieſt the Sholder, the two Cheeks and the Maw.</hi>
+               </p>
+               <p>Now if theſe Prieſts will have it (in theſe Goſpel Dayes) as it was ordered by the <hi>Levitical</hi> Law to the Prieſts, then this Clauſe of the Law doth tell them what is their Due, Share or Por<g ref="char:EOLhyphen"/>tion; and what was their Due of the other Encreaſe, is expreſt in the afore-going Text; the Poor, the Fatherleſs, Strangers and Widow were to eat and to be ſatisfied, and then the Prieſts were to have their Due or Portion, as is read in <hi>Gen.</hi> 47.22. and that Portion was <hi>Pharaoh's</hi> free Gift, there was no Law to enforce treble Damage, if not paid.</p>
+               <p>Behold the Zeal of the Libeller for Tythes, which were on<g ref="char:EOLhyphen"/>ly due under the <hi>Levitical</hi> Prieſthood! One would think that ſo zealous a Son of the Church ſhould be prefer'd unto a Be<g ref="char:EOLhyphen"/>nefice, if he have none, as ſome ſay he hath not; for he hath ſtood up for Tythes as ſtoutly as the <hi>Presbyterians</hi> did in <hi>Oliver</hi>'s dayes, who had then a Law to enforce them with treble Da<g ref="char:EOLhyphen"/>mage: but although he and the Prieſts hold up <hi>Levi</hi>'s Prieſt<g ref="char:EOLhyphen"/>hood, they have changed the courſe of it; for in <hi>Levi</hi>'s time it was to be ſtored up for the Poor, the Stranger, the Father<g ref="char:EOLhyphen"/>leſs and Widow, and the Prieſts were only to have a ſhare of it, and their ſhare or due was, of an Ox or Sheep they were to have one Sholder, the two Cheeks and the Maw; but now they have altered their courſe, they have taken all the Tythes (they could get) to themſelves, and have turned the Poor, the Stran<g ref="char:EOLhyphen"/>ger, the Fatherleſs and Widow to beg, not ſo much as giving them any ſhare; it had been Charity for them to have allow<g ref="char:EOLhyphen"/>ed them ſomething, if it had been but the Sholder or two Cheeks, it had been better than nothing: and ſince its by <hi>Levi</hi>'s Prieſthood the Prieſts now claim their Tythes, may not the Poor, the Fatherleſs and Widows by it lay as good a Claim to it? if
+<pb n="27" facs="tcp:101824:14" rendition="simple:additions"/>not, let the <hi>Prieſts</hi> or this <hi>Libeller</hi> their Agent ſhew us by the Scriptures of Truth, when and where they were excluded; if they cannot, all people may ſee how far the Piety and Chari<g ref="char:EOLhyphen"/>ty of <hi>Levi</hi>'s Prieſts, in his day and time, did exceed theſe Prieſts of our time; for then the Poor, the Stranger, the Fa<g ref="char:EOLhyphen"/>therleſs and Widow were ſatisfied of the Tythes; but now the Prieſts, who pretend their Authority for taking <hi>Tythes</hi> from <hi>Levi,</hi> do allow the Poor no ſhare, though they ſee them in great Want, they are every day begging at our Doors. But the Libeller goeth on in the Prieſts Vindication of having the Tythes.</p>
+               <p>
+                  <hi>Remember that our Lord Jeſus was both a Biſhop and a Prieſt, and is ſaid by the Author to the</hi> Hebrews,<note place="margin">Libeller,</note> 
+                  <hi>to be a Prieſt forever after the Order of</hi> Melchizedek.</p>
+               <p>
+                  <hi>Rep.</hi> Its true what the Author to the <hi>Hebrews</hi> ſaid there; but he doth acquit himſelf of the <hi>Libeller's</hi> Charge; for he doth not in that Epiſtle, nor in any other ſay, that its lawful for Go<g ref="char:EOLhyphen"/>ſpel Miniſters to take Tythes; but in the ſame Chapter, viz. <hi>Hebr.</hi> 7.12. in Contradiction to the Libeller, he ſaid, <hi>The Priesthood being changed,</hi> (who had command from God to take Tythes) <hi>there is made alſo a Neceſſity of the Change of the Law.</hi>
+               </p>
+               <p>But it ſeems my Opponent hath found another Law ſince then, which grants a Right to the Prieſts for <hi>Tythes,</hi> made in the 9th of <hi>Hen.</hi> 3. I confeſs that we read of that, but for my part, I do not believe he had Power to repeal the Law of God, which ſaid, <hi>The Prieſthood was changed, and there was made of Neceſſi<g ref="char:EOLhyphen"/>ty a Change of the Law.</hi> And for his inſiſting on <hi>Chriſt's being a Biſhop and a Prieſt;</hi> this makes nothing for him (nor them) for Chriſt did not ſet up <hi>Tythes,</hi> but ended them, neither were his Apoſtles inducted to any Benefices, one, two or three apiece; but on the contrary he ſaid, Matth. 8.20. <hi>The Foxes have Holes, and the Birds have Neſts, but the Son of Man hath not whereon to lay his Head.</hi> And when he ſent forth his Diſciples, he did not ſay to them, that whatſoever City or Town they en<g ref="char:EOLhyphen"/>tered into, they ſhould ſettle there, and be Incombent of that Place, and take their Tythes of them; and if they would not receive them, then ſue them at Law, and take treble
+<pb n="28" facs="tcp:101824:15"/>Damage: But on the contrary, ſaid, <hi>Freely ye have received, freely give; and eat what's ſet before you; and if they will not re<g ref="char:EOLhyphen"/>ceive you, ſhake off the Duſt of your Feet for a Teſtimony againſt them.</hi> Surely the Libeller miſſed chuſing a Pattern for taking Tythes; for Chriſt, although he was a Biſhop and Prieſt, he took no Tythes, nor his Diſciples neither took none, but wrought with their Hands, and miniſtred to their own Neceſſity, and the Neceſſity of o hers. But after the Apoſtles days there was a great Apoſtacy among the Profeſſed <hi>Chriſtians;</hi> for ſome turned to be Wolv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s (which Chriſt ſaid <hi>would come</hi>) and Tore and De<g ref="char:EOLhyphen"/>voured them that kept the Teſtimony of Jeſus, and great ſtri<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng was among them about their Prieſts Maintenance, and for ſetting up of TYTHES, as the Reader may read at large in <hi>Frarcis Howgil's</hi> Book, called, THE CREAT CASE OF TYTHES; and there may be ſeen how in the ſeveral Ages ſince Chriſt was put to Death, according to the Fleſh, God had a People that bore their Teſtimony againſt TYTHES.</p>
+               <p>Soon after the Year 600. <hi>Grego<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, who was the firſt Pope of <hi>Rome,</hi> ſoon after ſent <hi>Auguſtine</hi> the Monk to <hi>England,</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ad.</hi> Lib. 26.</note> who, as its ſaid, <hi>Converted</hi> E helbert <hi>King of</hi> Kent; but it was but to Popery; and he and his Clergy for a long time after followed the Example of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Apoſtolical Pri<g ref="char:EOLhyphen"/>mitive Church, living in common upon the Free-Offerings of their Converts.</p>
+               <p>And from that time, until <hi>Henry</hi> the 3 <abbr>d</abbr> no Tythes, as Tythes were generally paid, but only a Decree made,<note place="margin">Ex. <hi>in</hi> Bad. <hi>663,</hi> &amp;c.</note> that for every twenty Shillings Rent, a Far<g ref="char:EOLhyphen"/>ding a Sunday was to be paid, and this was given by way of Offering.</p>
+               <p>From this time until the Year 1200. all that the Prieſts could do, brought the People no farther than to pay their Tythes at their own pleaſures, which made Pope <hi>Innocent</hi> the third ſend his Decretal Letters to the Biſhop of <hi>Canterbury,</hi> commanding him <hi>to enjoyn every man to pay his Temporal Goods to thoſe that miniſtred ſpiritual Things to them;</hi> which was enforced by Eccle<g ref="char:EOLhyphen"/>ſiaſtical Cenſure: And this was the firſt beginning of general parochial Tythes in <hi>England;</hi> this the Popes Decertal Epiſtle
+<pb n="29" facs="tcp:101824:15" rendition="simple:additions"/>was admitted and enjoyned by the Law of the Nation, King and People being then Papiſts. The Decree of the Pope recei<g ref="char:EOLhyphen"/>ving all poſſible Aſſiſtance from the Biſhops and Prieſts, on whoſe behalf it was made, did not only in a ſhort time take away the Peoples right to give their Tythes to thoſe that beſt deſerved them, but did alſo ſo much corrupt the Clergy, that in the time of <hi>Richard</hi> the ſecond,<note place="margin">Book Mart.</note> 
+                  <hi>John Wickliff,</hi> our famous Reformer did make a heavy Complaint to the Parliament in the words following:</p>
+               <p>
+                  <q>Ah Lord God! where this be reaſon to conſtrain the poor People to find a Worldly Prieſt, ſome time unable both of Life, and cunning in Pompe and Pride, Gluttony and Drunk<g ref="char:EOLhyphen"/>enneſs, and Letchery, in Symony and Hereſie, with fat Horſe, and Jolly and Gay Saddles and Bridles, Ringing by the way, and himſelf in coſtly Cloaths, and Pleaſures, and ſuffer their poor Wives and Children, and poor Neighbours periſh for Hunger, Thurſt and Cold, and other Miſchiefs of the World. Ah Lord Jeſus Chriſt! s;ith within few Years men paid their Tythes and Offerings at their own free will to Good Men, and able to great Worſhip of God, to pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fit and fairneſs of holy Church, fighting on Earth: Why were it lawful that a World<g ref="char:EOLhyphen"/>ly Prieſt ſhould deſtroy this holy and approved Cuſtom, con<g ref="char:EOLhyphen"/>ſtraining men to leave this Freedom, turning Tythes and Of<g ref="char:EOLhyphen"/>ferings unto Wicked Uſes? Again, hear him.</q>
+               </p>
+               <p>
+                  <q>That Tythes were and are a Free Gift, as among Chriſtians, and only pure Alms; and the Pariſhioner may for the Offence of their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urate detain &amp; keep them back,<note place="margin">
+                        <hi>Acts, Men.</hi> p. 69.</note> and b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtow them upon others at their own will and pleaſures.</q>
+               </p>
+               <p>This was alſo maintained by <hi>J. Hus,</hi> who was burnt for his Teſtimony at <hi>Conſtance;</hi> take his own words:</p>
+               <p>
+                  <q>That the Clergy are not Lords and Profeſſors of Tythes and other Eccleſiaſtical Goods, which are freely given, but only Stewards;<note place="margin">Acts &amp; Mon. <hi>pag. 605.</hi>
+                     </note> and after the neceſ<g ref="char:EOLhyphen"/>ſity of the Clergy is once ſatisfied, they ought to be tranſported to the poor; and if the Clergy do abuſe the ſame, they are Thieves and Robbers, and Sacriledgious per<g ref="char:EOLhyphen"/>ſons;
+<pb n="30" facs="tcp:101824:16"/>&amp; except they do Repent by the Judgment of God they are to be condemned.</q>
+               </p>
+               <p>
+                  <hi>Will Thorp,</hi> an Eminent <hi>Proteſtant</hi> gave a large Teſtimony a<g ref="char:EOLhyphen"/>gainſt <hi>Tythes,</hi> ſaying, <q>That thoſe Prieſts that took Tythes,<note place="margin">Book Mart.</note> deny Chriſt come in the Fleſh; for the Prieſthood was changed that gave them.</q> At which the Bi<g ref="char:EOLhyphen"/>ſhop ſaid, <hi>God's Curſe have you, and mine for thus teaching. Jerom</hi> of <hi>Prague, William Swinderby, Wal<g ref="char:EOLhyphen"/>ter Brute,</hi>
+                  <note place="margin">
+                     <hi>Rueas Silvi</hi> in his <hi>Bohem.</hi> Hi<g ref="char:EOLhyphen"/>ſtory.</note> the <hi>Wicklffiians, Bohemians</hi> and <hi>Wal<g ref="char:EOLhyphen"/>dences,</hi> the firſt reformed <hi>Proteſtants</hi> gave their poſitive Teſtimony againſt Tythes, as may be found in the <hi>Marginal Hiſtories.</hi>
+               </p>
+               <p>
+                  <hi>An Eſtate in Tythes was as truly and juſtly the Right and Pro<g ref="char:EOLhyphen"/>perty of every Incombant, Canonically ordained, inſtituted and inducted,</hi>
+                  <note place="margin">Libeller, p. 26.</note> 
+                  <hi>as any thing an Honeſt Man can call his; all which the holy Apoſtle juſtifies in</hi> 1 Cor. 6.11, 12, 14. Have not we, <hi>ſays he,</hi> power to forbear working? And if we have ſown to you Spiritual things, is it a great mat<g ref="char:EOLhyphen"/>ter if we reap your Carnal things?</p>
+               <p>
+                  <hi>Rep.</hi> What the Apoſtle ſayes here agrees well with what Chriſt ſaid, when he ſent forth his Diſciples to Preach the Goſpel, <hi>Match.</hi> 10. where he bid them <hi>make no Proviſion for their Jour<g ref="char:EOLhyphen"/>ney, freely ye have received, freely give, the work-man is worthy of his Meat,</hi> Luke 10.7, 8. <hi>Eat ſuch things as are ſet before you.</hi> In all this Commiſſion here's not one word of taking the Peoples Tythes, but to eat what was ſet before them; to this doth well agree what the Apoſtle ſaith, 1 <hi>Cor.</hi> 4. <hi>Have we not power to Eat?</hi> He did not ſay he had Power to take Tythe nor ju<g ref="char:EOLhyphen"/>ſtifie it, as the Libeller ſaith he did; and its no wonder that he will belye me, when he dare be ſo bold with the Apoſtle: The Apo<g ref="char:EOLhyphen"/>ſtle only there informs the <hi>Corinthians</hi> what Power they had, That they that plant a Vineyard may eat of the Fruit thereof, or ga<g ref="char:EOLhyphen"/>thers a Flock may eat of the Milk of it; he doth not ſay they had Power to eat of a Vineyard they had not Planted, nor eat the Milk of a Flock they had not gathered, much leſs take away the Tenth of their Labours; nor did he ſay they had as much Right and Property to them, as any honeſt man hath in any thing
+<pb n="31" facs="tcp:101824:16" rendition="simple:additions"/>he hath. Nay, the Apoſtle yet further acquits himſelf of the Li<g ref="char:EOLhyphen"/>bellers charge, for in the 12th and 15th Verſes, he ſaith, <hi>If others be partakers of this Power, are not we rather: Nevertheleſs we have not uſed this Power, but ſuffer all things, leſt we ſhould hinder the Goſpel of Chriſt.</hi> Again, <hi>But I have uſed none of theſe things, neither have I written theſe things that it ſhould be done unto me; for it were better for me to dye, than any Man ſhould make my glorying void.</hi> Again, the 18th Verſe, <hi>What is my reward then, verily that I Preach the Goſpel, I make the Goſpel of Chriſt with<g ref="char:EOLhyphen"/>out Charge.</hi> By this any honeſt Man may ſee that my Adverſa<g ref="char:EOLhyphen"/>ry choſe a wrong Pattern, to take his meaſure by; Pope <hi>Innocent</hi> the Third did far better ſuit his purpoſe; for <hi>Paul</hi> did not lay any claim to Tythes, neither doth he ſay he had any Right to them, but on the contrary, <hi>Heb.</hi> 7. he ſaid, <hi>The Prieſthood being changed, there is made of neceſſity a change alſo of the Law.</hi>
+               </p>
+               <p>To conclude this Chapter, I have this to add, that I have been a Sufferer in this matter of Tythes in <hi>Olivers</hi> dayes, and all along ever ſince I have had them carried away Yearly; and though he ſayes all my Artillary is againſt them, whom he ſayes ſerves at Gods Altar, and all my grumbling is againſt Tythes; yet all this while I have not, nor ever ſhall uſe any Artillary againſt them, but my down-right Teſtimony, that to give Tythes or take them is an Antichriſtian practice; yet I with ſeveral Thouſands of my dear Friends in <hi>England</hi> and <hi>Wales</hi> do patiently ſuffer when they are forceably taken away from us; and its my Faith in God, and not mine only, but the Faith of Thouſands, that God will in his due time remove this great Oppreſſion, and will daily more and more ſend forth faithful Labourers into his Work, thoſe who will be content with ſuch Maintenance as Jeſus Chriſt hath appointed for them, whoſe glorying in him ſhall be, that they make the Goſpel of Chriſt without Charge.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="32" facs="tcp:101824:17"/>
+               <head>CHAP. III. <hi>Of</hi> SCOLLARSHIP.</head>
+               <p>ABout which he vapours with ſuch vehemency that he may be compared to <hi>Goliah</hi> of <hi>Gath,</hi> who had a Helmet of Braſs upon his Head, and Coat of Male, Sword and Spear, with which he diſdained the Shepherd's Boy with his Sling and Stone: however, ſince with his <hi>Latin</hi> and <hi>Greek</hi> he hath diſ<g ref="char:EOLhyphen"/>dained me, and defied the Hoſt of the living God this day, I will in the Name of the living God withſtand him with my diſ<g ref="char:EOLhyphen"/>dained Sling and ſmooth Stone, which I have found in the Brook of God.</p>
+               <p>Libeller, <hi>I do verily believe he knows not the meaning of</hi> Beatus qui protelabitur; adding a Phraſe in <hi>Greek,</hi> adding more, <hi>That neither I nor any</hi> Quaker <hi>living can tell the true meaning thereof.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> Behold, Reader, how he vapours, <hi>Goliah</hi>-like, with his <hi>Latin</hi> and <hi>Greek,</hi> ſaying, <hi>No</hi> Quaker <hi>living can tell the true intent and meaning thereof:</hi> Doth he not in this ſeek to limit the great God of Heaven and Earth?</p>
+               <p>Pſalm 25.14. <hi>The Secrets of the Lord are with them that fear him.</hi>
+               </p>
+               <p>Mark, this man of God makes no Reſpect of Perſons, nor doth he limit God either to Mens Wiſdom or Schollarſhip.</p>
+               <p>Luke 8.10. <hi>
+                     <g ref="char:V">Ʋ</g>nto you it is given to know the Myſteries of God's Kingdom, but to others in Parables.</hi>
+               </p>
+               <p>Mark, the Myſteries of God's Kingdom were revealed to theſe poor Mechanick Men, but were hid from <hi>Herod</hi> and <hi>Pi<g ref="char:EOLhyphen"/>late,</hi> and the Chief Prieſt, with all their <hi>Hebrew, Greek</hi> and <hi>Latin.</hi>
+               </p>
+               <p>1 <hi>Cor.</hi> 1.21. <hi>The World by Wiſdom knew not God.</hi>
+               </p>
+               <p>1 Cor. 2.11. <hi>For what man knoweth the things of a man, ſave
+<pb n="33" facs="tcp:101824:17" rendition="simple:additions"/>the ſpirit of a man which is in him; even ſo the things of God knoweth no man, but the Spirit of God.</hi>
+               </p>
+               <p>Mark people, how Chriſt and the holy men of God tell you, that its the Spirit of God that muſt make you knowing in the things of God.</p>
+               <p>1 Cor. 1.27. <hi>But God hath choſen the fooliſh things of this World to confound the wiſe; and God hath choſen the weak things of the World to confound the mighty, and baſe things of the World, and things which are deſpiſed hath God choſen, yea, and things that are not, to bring to nought the things that are, that no fleſh ſhould glory in his Preſence.</hi>
+               </p>
+               <p>If ſo, why was this man ſo vain in his Imagination, that nei<g ref="char:EOLhyphen"/>ther I nor no <hi>Quaker</hi> living could tell the meaning of thoſe Scrip<g ref="char:EOLhyphen"/>ture words he mentions? however, if he remain in the ſame be<g ref="char:EOLhyphen"/>lief all his dayes, <hi>that neither I, nor no</hi> Quaker <hi>living, can tell the mean<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng thereof;</hi> I can tell him alſo, that neither he nor any of the wiſeſt men in the World, with all their Wiſdom and Schollarſhip, can tell the meaning of them; for they are the things of God, and none can know them but by the Spirit of God.</p>
+               <p>I will ſubjoyn ſome few Teſtimonies for confirmation of my Judgement in this Point; the <hi>firſt</hi> is that of <hi>Pharaoh's Dreams,</hi> Gen. 41. all his Magicians, Wiſe Men and Schollars failed, and poor Mechanick <hi>Joſeph</hi> by the Spirit of God made it known.</p>
+               <p>
+                  <hi>Dan.</hi> 4.7. You may read there how the King made a large Tryal of all the Schollars and Wiſe M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of <hi>Babylon,</hi> but there it failed alſo. <hi>Dan.</hi> 5 you may read of the <hi>Hand-Writing</hi> that ap<g ref="char:EOLhyphen"/>peared at <hi>Belſhazer's</hi> impious Feaſt, who beholding it, his Coun<g ref="char:EOLhyphen"/>tenance was changed, and he cryed out for the Aſtrologers, Magicians and Wiſe Men, here it failed alſo. When Chriſt Je<g ref="char:EOLhyphen"/>ſus was born of <hi>Mary,</hi> the <hi>Scribes,</hi> the <hi>Phariſees,</hi> the <hi>High Prieſts,</hi> with all their <hi>Schollarſhips,</hi> could not find out that he was the Saviour, but took him for a moſt wicked Impoſtor: How <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame it then that they could not find it out, ſeeing that they had the Scriptures, that fore-told his coming? nay, inſtead of know<g ref="char:EOLhyphen"/>ing him by their <hi>Hebrew, Greek</hi> and <hi>Latin,</hi> they perſecuted him, and put him to the moſt ſhameful Death; however, many
+<pb n="34" facs="tcp:101824:18"/>poor illiterate Mechanicks had him revealed unto them. I might bring many Scripture-Teſtimonies more to my Defence, but at preſent do content my ſelf with theſe, not doubting but ſuch Hoops as theſe will make my Veſſel hold Water; theſe fol<g ref="char:EOLhyphen"/>lowing may be uſed alſo if need be.</p>
+               <p>Biſhop <hi>Jewel,</hi> in his Book againſt <hi>Papiſts,</hi> writ about a hun<g ref="char:EOLhyphen"/>dred years ago, ſaid thus; <q>The Spirit of God is bound neither to Sharpneſs of Wit,<note place="margin">Biſhop <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ewel</hi> againſt <hi>Hard.</hi> p. 532.534.</note> nor to abun<g ref="char:EOLhyphen"/>dance of Learning; oft-times the Unlearned ſee that which the Learned cannot ſee; therefore <hi>Epiphanius</hi> ſaith, Only to the Children of the Holy Ghoſt all the Scriptures are plain and clear; Fleſh and Blood is not able to underſtand the Holy Will of God, without ſpecial Re<g ref="char:EOLhyphen"/>velation, without the ſpecial Help and Prompting of God's ho<g ref="char:EOLhyphen"/>ly Spirit, the Word of God is to the Reader, be he never ſo wiſe and learned, but as the Viſion of a fealed Book.</q>
+               </p>
+               <p>
+                  <hi>William Dell,</hi>
+                  <q>It is only the INSPIRA<g ref="char:EOLhyphen"/>TION of GOD that enables a Man to know the Things of God;<note place="margin">
+                        <hi>William Dell</hi> confut <hi>Simſ.</hi> p. 114, 115, 116, 117.</note> and not man's Study and human Learning.</q>
+               </p>
+               <p>Dr. <hi>Barns</hi> Martyr, Burnt for his Faith in King <hi>Henry</hi> the eighth's dayes, ſaith, <q>That Man's Will, Reaſon, Wiſdom, Heart, Soul, or Whatſoever thing is in man, without the Spi<g ref="char:EOLhyphen"/>rit of God, is but the Wiſdom of the Fleſh.</q>
+               </p>
+               <p>
+                  <hi>Zwinglius,</hi>
+                  <q>The Scriptures are not to be under<g ref="char:EOLhyphen"/>ſtood, but by that very ſame Spirit by which they were writ.<note place="margin">Tom 3. fol. 160.</note>
+                  </q>
+               </p>
+               <p>
+                  <hi>Peter Martyr,</hi> that famous <hi>Italian Proteſtant,</hi> teacheth us, <q>That the Spirit is the Abettor, by which we muſt aſſure our ſelves for the underſtanding of the Scriptures;<note place="margin">
+                        <hi>Peter Mart.</hi> ch. 6.</note> and that thereby we muſt di<g ref="char:EOLhyphen"/>ſcern between the Words of Chriſt and the Words of a Stran<g ref="char:EOLhyphen"/>ger.</q>
+               </p>
+               <pb n="35" facs="tcp:101824:18" rendition="simple:additions"/>
+               <p> 
+                  <hi>Eraſmus,</hi>
+                  <q>What's ſet forth by man's Device, may be received by Man's Wit;<note place="margin">
+                        <hi>Eraſ.</hi> on 1 <hi>Pet.</hi> 1.19 ibid. or 1 <hi>Cor.</hi> 2.</note> but the Thing that's ſet forth by the Inſpiration of the Holy Ghoſt, requireth an Interpreter inſpired with the like Spirit.</q>
+               </p>
+               <p>Thus, Reader, thou may'ſt ſee who abuſes the firſt Refor<g ref="char:EOLhyphen"/>mers, my Adverſary or I; yet he calls himſelf a <hi>Proteſtant,</hi> but if he be, he is very much apoſtatized from the firſt reformed ones: and for my part, I am a <hi>Proteſtant</hi> in this Caſe with the afore-ſaid good men.</p>
+               <p>And whereas in my Book I did give my Teſtimony, <hi>That none could underſtand the Myſteries of God's Kingdom by Human Learning, Arts or Sciences;</hi> and he hath ſaid nothing to inva<g ref="char:EOLhyphen"/>lid my Aſſertion; yet I did not ſay there, nor was it ever in my Heart, that Schollarſhip was not good in its place, <hi>(viz.)</hi> to tranſlate any Hiſtory out of one Language to another, as <hi>Hebrew</hi> to <hi>Greek, Greek</hi> to <hi>Latin, Latin</hi> to <hi>Engliſh, Engliſh</hi> to <hi>Welch,</hi> or <hi>Welch</hi> to <hi>Engliſh,</hi> &amp;c. in theſe, and in Commerce with men by them that travel into ſtrange Countries, and for trading with them, its of excellent uſe: But let a man be Maſter of never ſo many Languages, he cannot by them know the true Meaning of the Parable which Chriſt ſpoke, <hi>The Kingdom of God may be compared to a Muſtard ſeed;</hi> and whoever ſay they can, they are in their own Eyes wiſe; but when they come to the Tryal, they will find it deceitful, as well as <hi>Pilate,</hi> and the <hi>Jews,</hi> and many others did. And <hi>John</hi> in his <hi>Revelations</hi> gives in his Judgment in this Caſe; he ſays, <hi>The Whore ſits upon the Waters;</hi> and he ſays, <hi>The Waters are Tongues, Languages and Peoples.</hi>
+               </p>
+               <p>But may ſome ſay, <hi>Who is that Whore he there ſpeaks of?</hi>
+               </p>
+               <p>Its plain that a Whore is one that is Adulterated from her Husband; and Chriſt Jeſus is the Husband of the true Spouſe, his Church: but many who have laid Claim to him for their Husband have adulterated from him in their Lives and Conver<g ref="char:EOLhyphen"/>ſations; and this is that Whore which would make People be<g ref="char:EOLhyphen"/>lieve
+<pb n="36" facs="tcp:101824:19"/>ſhe is an Honeſt Wife; ſhe gets the Tongues, and Langua<g ref="char:EOLhyphen"/>ges, and Peoples, and upon theſe (as <hi>John</hi> ſaith) ſhe ſits (as a Queen) and the Cry now is to all, <hi>Come out of her, my People; partake not of her Sins, leſt ye partake of her Plagues.</hi>
+               </p>
+               <p>
+                  <hi>Pilate</hi> and the <hi>Jews,</hi> who put Chriſt to Death, had <hi>Hebrew, Greek</hi> and <hi>Latin;</hi> for <hi>Pilat</hi> wrote a Superſcription in <hi>Hebrew, Greek</hi> and <hi>Latin,</hi> and ſet over <hi>Chriſt's</hi> Head when he was Cru<g ref="char:EOLhyphen"/>cified, and the <hi>Jews</hi> read it, and yet by theſe Tongues they knew not Chriſt.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Of his Reflection on me, calling me <hi>COOPER,</hi> &amp;c.</head>
+               <p>IN this he ſpits his Malice at me as much as in any; and in<g ref="char:EOLhyphen"/>deed, his Book ſavours of little elſe; and in this he thought to Character to Diſgrace, by Reflecting upon my ſmall Origi<g ref="char:EOLhyphen"/>nal: but I am quite of another mind; for if this would be ſo to me, it would certainly be of much more to very many that I could name, were it not leſt any ſhould think I did reflect on them, who are now Perſons of known Repute and Honour in the World, who had ſmaller Beginnings than my ſelf: I could bring the <hi>Libeller</hi> under this Odium alſo, if he thinks it be any, if he be the Man he is ſaid to be; but Revenge is none of my Way, therefore will at preſent reply to him of this Matter.</p>
+               <p>
+                  <hi>He's fitter to Plant Tobacco, or at b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt to mind hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ax and Saw,</hi>
+                  <note place="margin">Libeller, pag. 20.</note> 
+                  <hi>the Joynter and the Adz, alias, Nedd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the Criſte and the Head-Knife,</hi> &amp;c.</p>
+               <p>
+                  <hi>Rep.</hi> Its known to many now living, in this my Native Coun<g ref="char:EOLhyphen"/>try wherein I live, (and it being alſo near the place where I was Born) that my genious from a Child did lead me to Surgery, inſomuch that before I was Ten Years old, I ſeveral times over<g ref="char:EOLhyphen"/>ran my School and Home when I heard of any ones being wounded or hurt, &amp; uſed all my endeavours, then to ſee Fractures
+<pb n="41" facs="tcp:101824:19" rendition="simple:additions"/>and Diſlocations reduc'd, and Wounds dreſſed, and have been ſo long miſſing, that my Parents thought they had loſt me, for which I underwent ſevere Correction, and the troubleſome Times being then, my Parents ſuſtained great Plunder, and my Father dyed before I was Eleaven Years old, and my Mother not being then able to produce ſo great a Sum of Money as to ſet me to Chyrurgery, I betook my ſelf to this honeſt &amp; neceſſary Calling he upbraids me with, with ſeveral other things that in thoſe dayes pleaſed my mind; yet during all this time, I loſt no opportunity to inform my ſelf in the Practice of Chyrurgery, and continued thus untill I became acquainted with an honeſt Friend, and good Artiſt in Chyrurgery, whoſe Name was <hi>Ri<g ref="char:EOLhyphen"/>chard Moore</hi> of <hi>Salop,</hi> who ſeeing my forwardneſs to Chyrur<g ref="char:EOLhyphen"/>gery, did further me in it, and brought me to Defections in <hi>Salop;</hi> the Anotomiſts being men of known worth in that Practice, whoſe Names are Dr. <hi>Needham</hi> and Dr. <hi>Hollins,</hi> who at this day are doubtleſs of deſerved Repute in their Profeſ<g ref="char:EOLhyphen"/>ſions (in <hi>England</hi>) and I being then expert in Drils, and Handy in Knife and Lancet, &amp; other Inſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uments for that purpoſe, I ſet on making a Skell ton of a mans Bones, which I on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y with the aſſiſtance of <hi>Richard Moore</hi> performed to their content, at which time they thought me fit to be Licenſed the practice of Chyrur<g ref="char:EOLhyphen"/>gery, and this is near 20. Years ago, and ſoon after <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing taken Priſoner to <hi>Denbigh,</hi> where I remained a Priſoner near ſix Years for the Teſtimony of Jeſus, I then betook my ſelf wholly to the Practice of Chyrurgery, and God was with me in my underta<g ref="char:EOLhyphen"/>kings, to him be the Glory forever; and why then did not my envious Adverſary to the aboveſaid Inſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments, have added tho Plaiſter Box and Salvatory, the Trafine and the Head Saw, the Amputation Saw, and the Catling, the Cauterv S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rring and Cathe<g ref="char:EOLhyphen"/>ter, with many more which with Gods aſſiſtance I have uſed with good ſucceſs, for the ſpace of near 20. years laſt paſt (which was near thrice as long as I uſed thoſe he ſpeaks of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at comfort of many who had ſome of them, their Limbs gangrened others Fractured, others Diſlocated, others deſperately Woun<g ref="char:EOLhyphen"/>ded by Gun ſhots, others pierced thorow with Rapiers, others with Ulcers and Fiſtula's, and Cancers, which I exterpated, &amp; by Gods aſſiſtance Cured, yea, many Scores are living Monu<g ref="char:EOLhyphen"/>ments
+<pb n="42" facs="tcp:101824:20"/>of Gods Mercy to this day, who were Spectacles of great miſery in theſe reſpects; And as touching his R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>flection and De<g ref="char:EOLhyphen"/>traction, enviouſly ſeeking to l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſen my Reputation in my pre<g ref="char:EOLhyphen"/>ſent Calling of Chyrurgery, is no more to me then the barking of a Dog; and though Dogs yelp at the Moon, yet they can not hinder her Light.</p>
+               <p>
+                  <hi>I bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e he is Ignorant in his very Trade of quack Chy<g ref="char:EOLhyphen"/>rurgery,</hi>
+                  <note place="margin">Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eller, pag. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>and cannot ſo much as Enlighten his credulous and very adventerous Patients with the meaning of the Hip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; Epigaſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a, the Medulla, Spinolis, and Piloras,</hi> &amp;c.</p>
+               <p>
+                  <hi>Rep.</hi> Its poſſible that for all his malign Detraction, that to any whom it may concern I ſhall be able to give them ſuch ſatisfaction, as becomes a Practitioner in Chyrurgery to do, having for at leaſt 20. Years of great Induſtry informed my ſelf in Anatomy, eſpeci<g ref="char:EOLhyphen"/>ally that part of it that belongs to a Chyrurgeon (viz.) of knowing the Structure and Scituation of mans Body, and not only ſo, but have with painful endeavours inform'd my ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf of the beſt Authors with the Nature of the Humours, Spi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its and Ferments, and of their Co-opperation in the Bodies of men, neither have I reſted here, but have acquainted my ſelf with both antient and modern Inſtitutions, and the Aphoriſms (&amp; Obſervation) of worthy men; but what my attainments are in theſe particulars, I think not fit to be mentioned here, nor was it ever in my Heart to have ſaid thus much, had it not been a force put upon me; however this I hope I alwayes ſhall be ready, while God enab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es me (as I have been hitherto) when called upon to ſerve my Country, according to my ability, not only in ſaying, but doing alſo, and there is no mark of diſgrace which my Adverſary would Characterize me by, to diſgrace me with but I would as freely ſerve my Country now therein as ever, were I not able to ſerve them in a better capaci<g ref="char:EOLhyphen"/>ty. I could, if it were needful, bring many Teſtimonies of fa<g ref="char:EOLhyphen"/>mous men in the practiſe of Chyrurgery, who were firſt bred up Mechanicks, as <hi>Pereas, Fellix, Worteus, Carranus, Fellopius, Spi<g ref="char:EOLhyphen"/>gellius, Hilldanus</hi> and <hi>Aquepandente;</hi> nay, <hi>Leonard Phycrebeate,</hi> a very famous Man, ſayes, <hi>Its neceſſary for Youth to be ſo bred up, his Reaſon is, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t will make them more handy and dexterous in the ma<g ref="char:EOLhyphen"/>nuel Opperations of Chyrurgery.</hi>
+               </p>
+               <p>Libeller, in pag. 27. calls me <hi>Lay-Preacher,</hi> and bids me
+<pb n="43" facs="tcp:101824:20" rendition="simple:additions"/>call my ſelf <hi>a Lyar and Fool, for when,</hi> ſaid he, <hi>did any true Mi<g ref="char:EOLhyphen"/>niſter of the Church of</hi> England <hi>make any fawning Addreſſes to</hi> Richard Cromwell, <hi>or bemone the Death of</hi> Oliver.</p>
+               <p>
+                  <hi>Rep.</hi> What I ſaid there concerning the Prieſts is certainly true; for I ſaid ſome of the Prieſts bemoned the Death of <hi>Oli<g ref="char:EOLhyphen"/>ver,</hi> and in their Addreſſes to <hi>Richard,</hi> compared <hi>Oliver</hi> to <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> and <hi>Richard</hi> to <hi>Joſhuah,</hi> &amp;c. it therefore had become him to read the Prieſts Addreſſes, before he had charged me with Lyar and Fool, and did it not at this time look too like Revenge, which is none of my way. I have a Sheet in readineſs that I could have produced to my defence, which if a force be put upon me may come forth, which will ſhew them in their Colours, and fur<g ref="char:EOLhyphen"/>ther clear the point; and for my part I heartily wiſh we may hear no more of this, except we hear it and ſee it in the Pene<g ref="char:EOLhyphen"/>tential Confeſſion of the Offenders.</p>
+               <p>And although I be a Lay-man, as he calls me, yet I have a Teſtimony to bear for God in this day and time; and ſince he would exclude ſuch, what makes him believe the antient <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> who were Lay-men, <hi>Exod.</hi> 3.1. <hi>Moſes</hi> was a Keeper of Sheep; and was it not this Lay-man and Quaker that gave re<g ref="char:EOLhyphen"/>cord how God created Man in the Beginning, and the World, and all therein? and did not this Lay-man give Teſtimony of the Flood deſtroying the old World, and of <hi>Noah</hi>'s being ſaved in the Ark, with much more of the Work of God for the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liverance of his People, both Patriarchs and Pro<g ref="char:EOLhyphen"/>phets, &amp;c. as may at large be read in his books? And was not <hi>David</hi> a Keeper of Sheep, 2 <hi>Sam.</hi> 7.8. <hi>I took thee from the Sheep-coats,</hi> 1 <hi>Sam.</hi> 24.3. <hi>Saul</hi> came to the Sheep-coats after <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> 1 <hi>Kings</hi> 19.19. <hi>Eliſha</hi> was a Plow-man. <hi>Amos</hi> 3.4. <hi>A<g ref="char:EOLhyphen"/>mos</hi> was a Herds-man. <hi>Mat.</hi> 4.18. <hi>Simon Peter,</hi> and <hi>Andrew</hi> his Brother were Fiſhers. <hi>John</hi> 21. <hi>Simon Peter</hi> ſaid, <hi>I go a Fiſhing;</hi> they that were with him, ſaid, <hi>We go with thee.</hi> John <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.3. He expreſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> himſelf after the ſame manner.</p>
+               <p>Now you may ſee how theſe Preache<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, after they had been preaching to the Nations, <hi>Mat.</hi> 10, they fell to their Nets again; and I hope the <hi>Libeller</hi> dare not ſay, but that they were rightly ordained to their Miniſtry; yet we ſee that their way of Live<g ref="char:EOLhyphen"/>lihood
+<pb n="44" facs="tcp:101824:21"/>was thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fiſhing-trade, and not to uſurp Authority over the people; nor were they Incombants to any Places nor inducted to any Benefice with Right to Tythes of One hundred, or Two Hundred, or Three Hundred a Year, more or leſs. Now if <hi>Peter</hi> or <hi>John</hi> ſhould have come in their Fiſhers Coats to preach the Goſpel in our days, would not the Libeller abuſe them, think ye, and bid them <hi>mind their Nets and their Fiſhing-trade,</hi> and call them <hi>Lay-Preachers,</hi> and ſcoff at their Fiſher's Coats, eſpecially knowing them to be illiterate men? &amp; did not the great Schollars, (who had the <hi>Hebrew, Greek</hi> and <hi>Latin</hi> in thoſe days) in Deriſion call Chriſt a <hi>Carpenter's Son,</hi> and <hi>Blaſphemer,</hi> and <hi>Devil?</hi> thus their <hi>Tongues</hi> and <hi>Languages</hi> deceived them; for they knew him not with all theſe Tongues, <hi>Acts</hi> 18.3. Were not <hi>Paul,</hi> and <hi>Pricilla</hi> and <hi>Aquilla</hi> Tent makers? and were not theſe true Preachers? ſure they were. So all people that are ſpi<g ref="char:EOLhyphen"/>ritually awakened may ſee, how that God in the time of the Prophets and Apoſtles made choice of Lay-men (as my Adverſary hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtile is) to be his Miniſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs: but it may be the Libeller thinks that now the Caſe is alter'd, and that God hath changed his mind from <hi>Lay-men</hi> to <hi>Schollars</hi> only; if not, why are Lay-men ex<g ref="char:EOLhyphen"/>cluded now adays? is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to limit the Holy One of <hi>Iſrael?</hi> who will not be limitted, but is now riſen in his Power in a poor and deſpiſed Remnant, to whom he hath made known a heavenly Principle, w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch is the Spirit and Light of Chriſt Jeſus, God's A<g ref="char:EOLhyphen"/>nointed, the Second <hi>Adam,</hi> who is made a Quickening Spirit (as ſaith the Apoſtle) in man; and thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was it I bore Teſtimony to in my Book, and its not <hi>fe lo de ſe</hi> to deny all outward Teaching, (in the days of the <hi>Goſpel</hi>) that ſprings not from Chriſt Jeſus, the A<g ref="char:EOLhyphen"/>nointed of God, who is enjoyed within by the true <hi>Chriſtians</hi> in this Age, as was by ſuch in former Ages. <hi>Glory to the Lord God for the ſame.</hi> Chriſt ſaith, <hi>God is a Spirit, and they who VVor<g ref="char:EOLhyphen"/>ſhip him, they muſt worſhip him in the Spirit and in the Truth.</hi>
+               </p>
+               <p>And this <hi>spirit</hi> is the true Teacher, which we have believed in, &amp; this is he whom God hath anointed to preach good Tidings to the Poor, even Chriſt Jeſus in his Children; this is he whom God has ſent to bind up the broken-hearted, and to proclaim Li<g ref="char:EOLhyphen"/>berty to the Captives, and the opening of the Priſon to thoſe
+<pb n="45" facs="tcp:101824:21" rendition="simple:additions"/>that are bound, and to proclaim the Acceptable Year of the Lord, and the Day of the Vengeance of our God to all that oppoſe the Appearance of his Son; yea, and to comfort all that truly mourn for Sin; yea, and to appoint to all that mourn in <hi>Sion,</hi> to give to them Beauty for Aſhes, and the Oyl of Joy for mourning, and the Garment of Praiſe for the Spirit of Heavineſs, that they may be called Trees of Righteouſneſs, the planting of the Lord.</p>
+            </div>
+            <div xml:lang="wel" type="conclusion">
+               <head>The Concluſion to the <hi>Welch.</hi>
+               </head>
+               <p>Y cymry anwyl cynor yr apoſtol oedd at bawb yddynt brofi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pob peth a glynu wrth y peth ſydda, ag nid wgf yn diſyfy dim yngwaneg genych: agos gwnei di velly yn dy gydwybod a cymo an<g ref="char:EOLhyphen"/>wyl a cei di wir far no ba wreiddin y doeth lythur ar atebwr.</p>
+               <closer>
+                  <signed>T. W.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>An <hi>Epiſtle</hi> to my dear Friends, the People in Deriſion called <hi>Quakers.</hi>
+               </head>
+               <p>MY Everl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtingly Endeared and Beloved Friends, my Soul in a deep ſenſe of the great Love of God, and of the Mercy of the meek and lowly Jeſus, doth dearly ſalute you all, heartily deſiring, <hi>that both you and I may ſpend all the little re<g ref="char:EOLhyphen"/>mainder of our time with bowed down Souls, in holy Obedience to the holy Precep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of the Immaculate Lamb who lives forever,</hi> who is now riſen in Power and great Glory, and hath revealed his own ever<g ref="char:EOLhyphen"/>laſting Arm of Power to lead us out of Captivity and Bondage, and hath given every one of us in meaſure of his bleſſed eternal Spirit to be our Guide and Conducter to that bleſſed Inheritance prepared for us before the World began. Therefore, my dear Friends, wait diligently, and give Obedience to the pure and holy Motions of the divine Light, Life, Power &amp; Spirit of God
+<pb n="46" facs="tcp:101824:22"/>and Chriſt in you, for the Teſtimony of Jeſus is upon record, <hi>Rom.</hi> 8.14. that <hi>they that are led by the Spirit of God, are the Children of God.</hi> And I deſire all the <hi>Young-convinced,</hi> who have not yet known what it is to wade through the many Tribul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions, <hi>Not to be daunted with the Vapours of any</hi> Goliah, <hi>or Envious Enemy;</hi> and let none in the leaſt think much at this kind of Treatment, which I and my dear Brethren have met with from this and many other Angry Adverſaries; but keep your Eye to Chriſt Jeſus, who is our Patern, who ſaid, <hi>Learn of me, for I am meek &amp; lowly in Heart:</hi> And forever bleſſed be his Name, I can in truth bear this Teſtimony, <hi>That I have learnt to forgive Enemies, to bleſs them that curſe me, and to pray for them that deſpightfully uſe me and perſecute me.</hi> And although the <hi>Libeller</hi> hath employ<g ref="char:EOLhyphen"/>ed his <hi>learning,</hi> his <hi>wit</hi> and <hi>parts</hi> moſt horridly and deſpightfully to abuſe you above moſt that ever I read, yet do I from my Heart deſire the Lord, if it be his Will, to <hi>forgive him;</hi> and though I have reſented his ill behaviour to me and you, and the bleſſed Truch with juſt Rebuke, and muſt do yet again (if the Lord will) if Cauſe be given; yet it is in the Love of God, and in the innocent Nature of his Son.</p>
+               <p>And dear Friends, Its the deſire of my Soul, that every one of you may be true Witneſſes <hi>that this Love of God do always predominate in your hearts towards your Enemies;</hi> for nothing hath happened to us, but what hath abundantly more happened to our Lord himſelf; <hi>For his Viſage was marred more than any man's, and his Form more than the Sons of men; he hath no Form nor Com<g ref="char:EOLhyphen"/>lineſs in him; he was deſpiſed and rejected of men; a Man of Sor<g ref="char:EOLhyphen"/>rows and acquainted with Grief: ſurely he hath born our Griefs, and carried our Sorrows; he was wounded for our Tranſgreſſions; he was bruiſed for our Iniquities; the Chaſtizement of our Peace was upon him, and by his Stripes were we healed: all we, like Sheep, have gone aſtray, we have turned every one to his own Way, and the Lord laid on him the Iniquity of us all; he was oppreſſed, he was afflicted, yet he opened not his Mouth; he was brought as a Lamb to the Slaughter, and as a Sheep before the Shearer, dumb, ſo he opened not his Mouth; he was taken from Priſon and from Judg<g ref="char:EOLhyphen"/>ment; who ſhall declare his Generation! he was cut off out of the
+<pb n="47" facs="tcp:101824:22" rendition="simple:additions"/>Land of the Living, and for our Tranſgreſſion was he ſtricken.</hi> Oh! dear Friends, how can we but be overcome with ſuch Love as this! for it hath none to compare to it: Oh, that it may be im<g ref="char:EOLhyphen"/>printed in every one of our Hearts with ſo large a Character, that our great Enemies may be perſwaded that the Love of God dwells abundantly in our Hearts, both towards Prieſts and Peo<g ref="char:EOLhyphen"/>ple, Profeſſors and Prophane; and that which we deſire for them is, <hi>that they alſo may partake of the ſame Love of God,</hi> which Love will deſtroy Enmity and Diſcord, and take away the ground of <hi>war</hi> and <hi>ſtrife,</hi> yea the very ground of all <hi>plotting &amp; contriving hurt to any, either high or low:</hi> and this, dear Friends, I know you have receiv'd, and it is the moſt bleſſed Treaſure; for as every one holds it faſt, they ſhall know it to be a <hi>Bond of Peace,</hi> even the <hi>Peace of God,</hi> which by his Son Chriſt Jeſus is given unto us, which as we abide faithful in his bleſſed Truth, ſhall never be taken away from us. <hi>So in a living Sence of this undefiled Love of God do I dearly ſalute you all, where this may come, who am your Brother in the Fellowſhip of the Goſpel of Peace, who am known to the World by the Name</hi>
+               </p>
+               <closer>
+                  <signed>Thomas Wynne.</signed> 
+                  <dateline>
+                     <hi>Caerwis,</hi> 
+                     <date>the 1ſt Day of the 11th Moneth, 1678.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THis infamous Libeller in page 2, and 3. layes down his Charge againſt the ſaid <hi>Thomas Wynne</hi> thus:</p>
+            <p>Libeller. 1ſt, <hi>He ſayes, That all the Writers of the holy Scrip<g ref="char:EOLhyphen"/>tures, and all the Saints of God mentioned there, were</hi> Quakers, page 11, &amp; 14.</p>
+            <p>Secondly, <hi>That the preſent</hi> Quakers <hi>have got the Key of</hi> David, <hi>with which they (and they only) can unlock all Myſteries,</hi> p. 11.</p>
+            <p>Thirdly, <hi>That all Schollars (eſpecially the Prieſts) having quite loſt this Key, cannot tell the Meaning of the Scriptures; and that their Hearers have not ſo much Diſcretion as</hi> Pharaoh <hi>and</hi> Ne<g ref="char:EOLhyphen"/>buchadnezzar <hi>bad,</hi> p. 12.</p>
+            <pb n="48" facs="tcp:101824:23"/>
+            <p> Fourthly, <hi>That the Miniſters of God, the Prieſts of this Church, and thoſe that hear them, are all running Head-long to Deſtruction,</hi> p. 14. He further adds thus, viz.</p>
+            <p>
+               <hi>Theſe are the main Pillars our</hi> Quaker <hi>ſuperſtructs all his Foola<g ref="char:EOLhyphen"/>ry upon, and moſt juſtly deſerves for his Pains to be rewarded with a Whipping-poſt, that by taking a lawful Dance about that, he might aſſay alſo to prove the Antiquity of a</hi> Lancaſhire <hi>Horn Pipe.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> In all theſe four Particulars, this Libeller doth falſly charge the ſaid <hi>T. W.</hi> as may be ſeen in thoſe pages of his Book, which the <hi>Libeller</hi> quotes. In p. 14. T.W. ſaith thu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <q>
+                  <hi>Oh! you Prieſts of all ſorts, I beſeech you for Chriſt's ſake, do not run thus headlong to Deſtruction, and draw the poor blind People after you.</hi>
+               </q>
+               <hi>Reader,</hi> ſeriouſly conſider how <hi>falſly</hi> and <hi>wickedly</hi> this <hi>Libeller</hi> hath dealt with <hi>T. W.</hi> For <hi>T. W.</hi> doth not ſay, <hi>That the Mini<g ref="char:EOLhyphen"/>ſters of God, the Prieſts of this Church, and thoſe that hear them are all running headlong to Deſtruction;</hi> and therefore this Author hath <hi>groſly belyed T. W.</hi> in this matter. But more fully to prove that this <hi>Libeller</hi> hath <hi>groſly belyed</hi> the ſaid <hi>T. W.</hi> take <hi>T. W.</hi> his own words as followeth, p. 21, 22. who writing againſt the <hi>Pa<g ref="char:EOLhyphen"/>piſts, Proteſtants, Presbyterians, Independants</hi> and <hi>Anabaptiſts,</hi>
+               <q>
+                  <hi>I know</hi> (ſaith he) <hi>there are ſome particular perſons of each of you who are come ſo far to be led &amp; guided by the holy Principle in them that they dare not ſcoff nor jear any, but are troubled to ſee any o<g ref="char:EOLhyphen"/>thers do ſo, who have ſhewed their Moderation ſo much, as they them<g ref="char:EOLhyphen"/>ſelves have not eſcaped being Sharers in the Reproach of the</hi> Qua<g ref="char:EOLhyphen"/>kers. <hi>Theſe I diſtinguiſh from the reſt, and what I charge the a<g ref="char:EOLhyphen"/>fore-mentioned with; and I heartily deſire that they may witneſs a growth in the heavenly Principle, which will further them in holy living, and make them able to diſcern who they are that fear God, and who fear him not.</hi>
+               </q> Thus far <hi>T. W.</hi> word for word. Thus the <hi>Libeller</hi> is plainly proved to be a <hi>Forger</hi> of <hi>Lyes,</hi> and his <hi>Pamphlet</hi> to be made up of <hi>Lyes</hi> and <hi>Scoffing,</hi> writ in a <hi>Spirit</hi> of <hi>Envy,</hi> and therefore to be abhorred by all people who come to a ſight or knowledge thereof.</p>
+            <p>
+               <hi>Secondly,</hi> The ſaid <hi>Libeller</hi> chargeth the ſaid <hi>T. VV.</hi> with ſay<g ref="char:EOLhyphen"/>ing, <hi>That all Schollars, eſpecially the Prieſts, have quite loſt this Key, cannot tell the Meaning of the Scripture: And that their
+<pb n="49" facs="tcp:101824:23" rendition="simple:additions"/>Hearers have not ſo much diſcretion as</hi> Pharaoh <hi>and</hi> Nebuchadnez<g ref="char:EOLhyphen"/>zar <hi>had.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> This is another forged Lye, or rather two Lyes; f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firſt <hi>T. W.</hi> believes and certainly knows that there are Schollars who have the Key, and know the meanings of the <hi>Scriptures,</hi> and he alſo knows that there are ſome who hear the <hi>Prieſts,</hi> who have as much diſcretion as <hi>Pharaoh</hi> and <hi>Nebuchadnezzar</hi> had, and this he ſhews in what is ſaid before in pag. 21, 22. of his Book.</p>
+            <p>Secondly, This <hi>Libeller</hi> chargeth the ſaid <hi>T. W.</hi> with ſaying, <hi>That the preſent</hi> Quakers <hi>have got the Key of</hi> David, <hi>with which they (and they ONLY) can unlock all Myſteries.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> The ſaid <hi>Libeller</hi> hath forged and told a Lye in this charge againſt <hi>T. W.</hi> for though <hi>T. W.</hi> doth ſay, that <hi>The</hi> Quakers <hi>at this day have the Key of</hi> David, <hi>which doth unlock all the Myſteries of all his Brethrens Writings:</hi> Yet <hi>T. W.</hi> doth not ſay, that the <hi>Quakers</hi> only have this Key.</p>
+            <p>Fourthly, The ſaid <hi>Libeller</hi> charges the ſaid <hi>T. W.</hi> with ſaying (in pag. 11, and 14. of his Book) <hi>That all the Writers of the holy Scriptures, and all the Saints of God mentioned there, were</hi> Quakers.</p>
+            <p>
+               <hi>Rep.</hi> T.W. doth not ſay in the aforeſaid pages, That all the Writers of the holy Scriptures, and all the Saints of God men<g ref="char:EOLhyphen"/>tioned there were <hi>Quakers;</hi> therefore this Libeller hath be<g ref="char:EOLhyphen"/>lyed him in this matter: But if T. W. had ſaid, That all the Writers of the holy Scriptures, and all the Saints of God men<g ref="char:EOLhyphen"/>tioned there were <hi>Quakers,</hi> yet thoſe ſayings may be true for any thing this <hi>Libeller</hi> knows, or for any thing he hath offered in this his Pamphlet to prove the contrary: The Apoſtle ſaid, <hi>God hath concluded all under Sin, that he might have Mercy upon all.</hi> Again, the Apoſtle ſaid, <hi>We have all ſinned, and come ſhort of the Glory of God.</hi> Again, <hi>We have all been gone aſtray as Sheep with<g ref="char:EOLhyphen"/>out a Shepherd, but now we are returned to the Captain of our Sal<g ref="char:EOLhyphen"/>vation, and Biſhop of our souls.</hi> And the Apoſtle exhorted, ſay<g ref="char:EOLhyphen"/>ing, <hi>VVork out your Salvation with Fear and Trembling; for it is God that worketh in us to will and to do of his own good pleaſure,</hi> as ſaith the Apoſtle. This Libeller in page 4. of his <hi>Pamphlet</hi> ſaith, <hi>We ought to work out our Salvation with Fear and Trem<g ref="char:EOLhyphen"/>bling.</hi> Now ſeeing all have ſinned as the Apoſtle ſaid and ſee<g ref="char:EOLhyphen"/>ing
+<pb n="50" facs="tcp:101824:24"/>the Apoſtle exhorts People to <hi>work out their Salvation with Fear and Trembling:</hi> If they take the Apoſtles counſel then they muſt work out their Salvation with <hi>Fear</hi> and <hi>Trembling;</hi> and if <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do ſo, then they do <hi>Quake</hi> or <hi>Tremble,</hi> and ſo in a ſence may be called <hi>Quakers</hi> or <hi>Tremblers,</hi> the words <hi>Quaking</hi> and <hi>Trembling</hi> being of one and the ſame Signification. The holy Prophet ſaid, <hi>Serve the Lord with Fear, and rejoyce in him with Trembling,</hi> &amp;c. And the Lord God ſaid, <hi>To this man will I look, even to him that is poor and of a contrite Spirit, and Trem<g ref="char:EOLhyphen"/>blesh at my VVord.</hi> Again, the Lord ſaith, <hi>Hear the VVord of the Lord, ye that Tremble at his Word; your Brethren that hated you, that caſt you out for my Names ſake, ſaid, Let the Lord be glo<g ref="char:EOLhyphen"/>rified; but he ſhall appear to your Joy, and they ſhall be aſhamed,</hi> Iſa. 66.2, 5.</p>
+            <p>Reader, Take notice, that though we own <hi>Quaking</hi> and <hi>Trem<g ref="char:EOLhyphen"/>bling,</hi> as the People of God did both before the Law and under the Law, and alſo in the dayes of the Goſpel, yet we have not given our ſelves that Name <hi>Quaker</hi> or <hi>Quakers,</hi> but our Perſecu<g ref="char:EOLhyphen"/>tors and Enemies gave us that Name in Scorn and Envy: But the Names which God and Chriſt gives (unto thoſe who truly believe and continue in obedience) are, <hi>Saints,</hi> and <hi>Servants, Children of God,</hi> and <hi>Children of the Light,</hi> and <hi>Diſciples of Chriſt;</hi> and the Apoſtle called the Believers in Chriſt, <hi>Chriſtians;</hi> the A<g ref="char:EOLhyphen"/>poſtle ſaith, <hi>If ye be Reproached for the Name of Chriſt happy, are ye; for the Spirit of Glory and of God reſteth upon you: but let none of you ſuffer as a Murtherer, or as a Thief, or as an Evil-doer, or as a buſie Body in other mens matters: yet if any Man ſuffer as a</hi> Chriſtian, <hi>let him not be aſhamed, but let him gloriſie God on this behalf,</hi> 1 Pet. 4.15, 16.</p>
+            <p>Reader, Here note, <hi>firſt,</hi> that thoſe who believe in and ſuffer for Chriſt, the Apoſtle calls them <hi>Chriſtians;</hi> and this Name we own as proper to us, more proper then the Name <hi>Quaker</hi> or <hi>Trembler:</hi> yet as we have and do <hi>Tremble</hi> at the Word of the Lord, as the Prophets and Apoſtles, and People of God for<g ref="char:EOLhyphen"/>merly did; if any in reverence, honour and love to the Power of God, at which we Tremble, do call us <hi>Quakers</hi> or <hi>Tremblers,</hi> this we own; but the Name <hi>Quakers,</hi> as given us in <hi>envy</hi> and <hi>ſcorn</hi> by this <hi>Libeller</hi> and many others, we deny and reject. <hi>Secondly,</hi>
+               <pb n="51" facs="tcp:101824:24" rendition="simple:additions"/>obſerve that ſuch who ſuffer for Murther, Theft, &amp;c. do not ſuf<g ref="char:EOLhyphen"/>fer as <hi>Chriſtians;</hi> for Murtherers and Thieves are no true <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> but are in the Nature of <hi>Heathens.</hi>
+            </p>
+            <p>Theſe four particular Charges this <hi>Libeller</hi> makes the Founda<g ref="char:EOLhyphen"/>tion of his ſcoffing <hi>Atheiſtical</hi> Pamphlet, called, <hi>Work for a Cooper;</hi> and herein they are all proved Falſe, Lying and Slanderous, and therefore the Devil is the Author of his ſaid <hi>Pamphlet; For he is the Author and Father of all Lyes and Lyars,</hi> as Chriſt ſaid.</p>
+            <p>The ſaid <hi>Libeller</hi> quotes <hi>Rev.</hi> 21. where it is ſaid, <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Lyars ſhall have their part in the Lake that burneth with Fire and Brim<g ref="char:EOLhyphen"/>ſtone.</hi>
+            </p>
+            <p>Here this <hi>Libeller</hi> may read his Portion, and what will be the reward of his Work, if he do not unfeignedly Repent: but it is his unfeigned Repentance and Salvation that T.W. and the Peo<g ref="char:EOLhyphen"/>ple in ſcorn by him called <hi>Quakers</hi> unfeignedly deſire.</p>
+            <p>
+               <hi>Concerning FEAR.</hi>
+            </p>
+            <p>The aforeſaid <hi>Libeller,</hi> who Scoffs at <hi>Fear</hi> and <hi>Trembling,</hi> ſaith, pag. 10. <hi>The worſt of men have commonly the greateſt ſhare of Fear.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> If this <hi>Libeller</hi> had been in that holy Fear of God <hi>which is the beginning of Wiſdom,</hi> which is as a Fountain of Life, which preſerves from the Snares of Death, and which keeps the Heart clean, as ſaith the Prophet, then he would have diſtinguiſhed betwixt Fear and Fear, as Chriſt and his Apoſtles have done: Chriſt ſaid, <hi>I ſay unto you, my Friends, Be not afraid of them that kill the Body, and after that have no more that they can do; but I will fore-warn you whom you ſhall fear, Fear him which after he hath killed, hath Power to caſt into Hell; Yea, I ſay unto you, fear him,</hi> Luke 12.4, 5. Mat. 10.28. The Author to the <hi>He<g ref="char:EOLhyphen"/>brews</hi> ſaith of Chriſt, <hi>That in the days of his Fleſh, when he had offered up Prayer and Supplication, with ſtrong Crying and Tears, unto him that was able to ſave him from Death, and was heard in that he feared,</hi> Heb. 5.7. Take notice of this, that the Man <hi>Chriſt Jeſus, who was made of a VVoman under the Law,</hi> as the Apoſtle ſaith, <hi>in the days of his Fleſh, when ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prayed unto the Father, he was heard in that he feared:</hi> Thus the Apoſtle ſhews that even the man Chriſt Jeſus, who ſinned not, was not without holy Fear and Reverence towards the Father. Again, the ſame
+<pb n="52" facs="tcp:101824:25"/>Author exhorted the Saints, ſaying, <hi>Wherefore we receiving a Kingdom which cannot be moved, let us have Grace whereby we may ſerve God acceptably with Reverence and</hi> GODLY FEAR, Heb. 12.28. Again, <hi>But as he who hath called you is holy, ſo be ye holy in all manner of Converſation, becauſe it is written, Be ye Holy for I am holy; and if you call on the Father, who without reſpect of Perſons judgeth according to every mans work, paſs the time of your ſojourning here with</hi> FEAR, 1 Pet. 1.15, 16, 17. Again, he exhorted, ſaying, <hi>If ye ſuffer for Righteouſneſs ſake happy are je; and be not afraid of their Terror, neither be Troubled, but Sanctifie the Lord God in your Hearts, and be ready alwayes to give anſwer to every man that asketh you a Reaſon of the Hope that is in you with Meekneſs and FEAR,</hi> Chap. 3.14, 15. Here the A<g ref="char:EOLhyphen"/>poſtle diſtinguiſheth betwixt the Fear of God and the Fear of Wicked Men; he exhorts them to the holy Fear of God, but forbids them to Fear wicked Men: And thus the Apoſtle agrees concerning <hi>Fear,</hi> with the Command of Chriſt, who ſaith, <hi>Fear not them which kill the Body, &amp;c. but are not able to kill the Soul, but Fear him who is able to deſtroy both Soul and Body in Hell,</hi> Mat. 10.28. Here the Apoſtle exhorts thoſe that call on the Name of the Father, <hi>to paſs the time of their ſojourning here with Fear;</hi> ſo that they who call upon the Name of the Father with acceptance, muſt not caſt off the holy Fear of God, but muſt keep and abide in it all the dayes they live upon Earth, according to the holy Saying of the Man of God, who ſaid, <hi>Bleſſed is the Man that Fears at All Times.</hi>
+            </p>
+            <p>In pag. 4. this <hi>Libeller</hi> ſaith, <hi>Till we have Mortified our ſin<g ref="char:EOLhyphen"/>ful Affections and Luſts, we ought to work out our Salvation with Fear and Trembling.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> It appears by his <hi>Envy, Scoffing</hi> and <hi>Lying,</hi> that he hath not yet mortified his ſinful Affections and Luſts, and therefore according to his own Principle he ought to <hi>Fear</hi> and <hi>Tremble</hi> be<g ref="char:EOLhyphen"/>fore the Lord. But as a Plea for caſting off the holy Fear of God, he quotes the words of <hi>Zacharias,</hi> which he ſpake con<g ref="char:EOLhyphen"/>cerning the Promiſe of God, that he would grant unto us, <hi>That we being delivered out of the hands of our Enemies might ſerve him without Fear in Holineſs and Righteouſneſs, &amp;c.</hi> Luke 1.74.75.</p>
+            <p>
+               <hi>Rep.</hi> His <hi>Lyes</hi> and <hi>Scoffing</hi> doth ſhew that he is not yet re<g ref="char:EOLhyphen"/>deemed
+<pb n="53" facs="tcp:101824:25" rendition="simple:additions"/>from under the <hi>Power</hi> of his <hi>Soul's Enemy;</hi> he doth not ſerve God in Holineſs and Righteouſneſs: and he wickedly wreſts and per<g ref="char:EOLhyphen"/>verts <hi>Zacharias</hi>'s words before-cited, for thoſe who did receive the Promiſe of God, who were <hi>delivered out of the hands of their E<g ref="char:EOLhyphen"/>nemies, they ſerved God in Righteouſneſs and Holineſs, without the</hi> Fear <hi>of their Enemies, but</hi> Not <hi>without the</hi> Fear <hi>of God.</hi> For any man to ſay, <hi>That he ſerves God in Holineſs, &amp;c. but doth not Fear God;</hi> this man is No True <hi>Chriſtian,</hi> but a RANTER. Again, this <hi>pro<g ref="char:EOLhyphen"/>phane Scribler,</hi> as a <hi>Plea</hi> for caſting off the holy Fear of God, quotes <hi>Paul</hi>'s words to <hi>Timothy</hi> (thus) <hi>For God hath not given us the Spirit of Fear, but of Power, of Love and of a Sound Mind:</hi> Thus far he quotes the Apoſtle's words, but like a <hi>Treacherous man</hi> leaves out the next following words, which ſhews what <hi>fear</hi> it was that they were out of; the following words are theſe, <hi>viz. Be not thou therefore aſhamed of the Teſtimony of our Lord, nor of me his Priſoner; but be thou partaker of the Afflictions of the Goſpel,</hi> 2 Tim. 1.7, 8. Here the Apoſtle ſhews that it was not the <hi>fear of God</hi> that they were out of, but the <hi>fear of wicked men,</hi> their <hi>Perſecutors,</hi> under whoſe <hi>wicked Power Paul</hi> then was a Priſoner. Again, this <hi>prophane man,</hi> as a <hi>Plea</hi> for caſting off <hi>godly Fear,</hi> he quotes the Apoſtle <hi>John</hi>'s words, who ſaith, <hi>Perfect love caſteth out Fear:</hi> But <hi>Treacherouſly</hi> or <hi>Ignorantly</hi> leaves out the very next Verſe to thoſe words he cites, which verſe hath only theſe following words in it, which words ſhew what <hi>fear</hi> it was that <hi>perfe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> love caſt out,</hi> viz. <hi>Herein is our Love made perfect, that we may have boldneſs in the day of Judgment, becauſe as he is, ſo are we in this world,</hi> 1 Joh. 4.17, 18. Here the Apoſtle ſhews that their Eſtabliſhment in the Truth, yea, in the <hi>God of all Truth,</hi> gave them <hi>dominion</hi> over the <hi>Devil,</hi> and over the <hi>fear</hi> of him, and over <hi>Fear</hi> of <hi>torment</hi> and <hi>puniſhment</hi> with him; but yet they retain a <hi>godly fear,</hi> according to the Command of Chriſt, who ſaid, <hi>I will teach you whom ye ſhall fear, Fear not him who killeth the Body, but cannot kill the Soul, but fear him who can caſt Soul &amp; Body into Hell.</hi> And the Man <hi>Chriſt Jeſus</hi> himſelf, in the days of his fleſh, had a <hi>fear</hi> and <hi>reverence</hi> towards the <hi>Father,</hi> as the Apoſtle ſhews, and as I have ſhewed before: And the Apoſtles and Prophets lived in <hi>Godly fear,</hi> and exhorted others unto it, and to continue in it; and they that do, and teach the contrary, which this <hi>vain Scribler</hi> doth, they are <hi>un<g ref="char:EOLhyphen"/>godly men,</hi> ſuch as the Apoſtle ſpeaks of, who <hi>do deſpight unto the spirit
+<pb n="54" facs="tcp:101824:26"/>of Grace,</hi> who live <hi>want only</hi> and <hi>prophanely</hi> upon the Earth, ſuch are Sons of <hi>Belial,</hi> who live without God and Chriſt's <hi>Yoke,</hi> who are like the <hi>wild Bullock</hi> unaccuſtomed to the Yoke, and like the <hi>wild Aſſes Colt</hi> in the <hi>Wilderneſs:</hi> And <hi>VVo</hi> unto ſuch if they <hi>Repent not;</hi> and if they do not <hi>forſake their <g ref="char:V">Ʋ</g>ngodly ways,</hi> they muſt have their <hi>portion</hi> with the <hi>Devil</hi> and his <hi>Angels</hi> in the <hi>Lake of Endleſs miſery,</hi> where the <hi>worm never dyes,</hi> neither is the <hi>fire ever quenched.</hi> Chriſt ſaith, <hi>Come unto me ye that are weary and heavy laden, and I will give you reſt; come, take my Yoke upon you, and learn of me; for my Yoke is eaſie, and my burthen is light.</hi> They who are heavy laden with their ſins, and weary of their ſins, they are invited by him to come unto him; and they that come unto him, muſt believe in that <hi>spiritual</hi> and <hi>divine Light,</hi> wherewith he hath <hi>enlightened</hi> them, <hi>who lights every man that cometh into the VVorld,</hi> according to <hi>Joh.</hi> 1.9. &amp; <hi>Joh.</hi> 8.12. &amp; 12.46. <hi>Luke</hi> 2. &amp; 32. <hi>Act.</hi> 13. &amp; 47. <hi>Joh.</hi> 3.19, 20. and ſee the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Epiſt. of <hi>Iohn</hi> 5.7. where the Apoſtle ſaith, <hi>God is Light, and in him is no Darkneſs at all. If we walk in the Light, as he is in the Light, then have we fellowſhip one with an other, and the blood of Jeſus Chriſt his Son cleanſeth us from all ſin.</hi> And they who be<g ref="char:EOLhyphen"/>lieve in the Light, where-with Chriſt hath enlightened them, this will let them ſee their ſins, and lead them to <hi>Repent</hi> of their ſins which are paſt; ſo God will forgive them their ſins which are paſt, and will ſtrengthen them to <hi>reſiſt ſin</hi> in time to come; ſuch who ſo do, are the real Diſciples of <hi>Chriſt,</hi> who ſaid, <hi>he that will be my Diſciple muſt deny himſelf, he muſt take up his Croſs daily &amp; follow me.</hi> And ſuch come to be <hi>baptized</hi> by <hi>Chriſt,</hi> by his holy <hi>spirit</hi> and <hi>fire,</hi> which <hi>burns</hi> up and <hi>conſumes</hi> all <hi>filthineſs</hi> of <hi>fleſh</hi> and <hi>spirit;</hi> and ſuch come to an<g ref="char:EOLhyphen"/>ſwer the holy Exhortation of the Apoſtle, who exhorted the Saints ſaying, <hi>Having therefore theſe Promiſes dearly Beloved) let us cleanſe our ſelves from all filthineſs of Fleſh and Spirit, perfecting Holineſs in the</hi> FEAR <hi>of</hi> God, 2 Cor. 7.1. Take notice here, that the Apoſtle exhorted theſe believing <hi>Corinthians</hi> to <hi>Perfect Holineſs in the fear of God,</hi> ſo then they were not to caſt off <hi>godly fear,</hi> when they were come to <hi>Holineſs,</hi> even <hi>Perfect Holineſs.</hi> God ſaith by the Prophet <hi>David, O ye Sons of Men! how long will ye turn my Glory into ſhame? How long will ye love Vanity and ſeek after Leaſing?</hi> Selah. <hi>But know, that the Lord hath ſet apart him that is godly for himſelf; stand in awe and ſin not, &amp;c.</hi> Pſal. 4.2, 3, 4. So all thoſe who deſire to be kept
+<pb n="55" facs="tcp:101824:26" rendition="simple:additions"/>out of ſin muſt keep in the <hi>Fear</hi> or <hi>Awe</hi> of <hi>God</hi> continually; for as I have ſhewed before, <hi>The Fear of the Lord God is as a Fountain of Life, which preſerves from the Snares of Death, &amp;c.</hi>
+            </p>
+            <p>God hath promiſed unto his People, ſaying, <hi>I will give them one Heart and one Way, that they may</hi> FEAR <hi>me</hi> FOREVER <hi>for the good of them and their Children after them —I will put my</hi> FEAR <hi>in their Hearts, that they ſhall not depart from me,</hi> Jer. 32.39, 40. Here God who cannot Lye hath promiſed, that <hi>he will put his Fear in his Peoples Hearts, and that they ſhall fear him forever;</hi> then they muſt NOT caſt off Gods fear, or Godly Fear, which the prophane and debauched Ranters and Atheiſts do, and as this ungodly Scribler doth in his ſcoffing, lying and malicious Pamphlet, as doth largely ap<g ref="char:EOLhyphen"/>pear. God hath promiſed by the Mouth of the Prophet <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lachi,</hi> ſaying, <hi>
+                  <g ref="char:V">Ʋ</g>nto you that fear my Name ſhall the Sun of Righteouſneſs ariſe with healing under his Wings, and ye ſhall go forth and grow as Calves in the Stall,</hi> Mal. 4.</p>
+            <p>This <hi>Libeller</hi> ſaith, page the 10th, <hi>That the worſt of Men have commonly the greateſt ſhare of Fear.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> That ſhare of Fear which the worſt of Men have, is not the Holy Fear of God, or not Godly fear, but their Fear is of the ſame kind which the Devils fear is, of which Fear the Apoſtle <hi>James</hi> makes mention of in his Epiſtle, whoſe Words this <hi>Libeller</hi> quotes, and wickedly wreſt to embo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>den and encourage People to caſt off <hi>Godly Fear,</hi> in which all that are <hi>Godly</hi> do ſtedfaſtly abide, and in their ſo abiding do enjoy the pure Power and Wiſdom of God, by which they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e preſerved out of Sin, which is the Devils work. God ſaith by the Mouth of the Prophet <hi>Iſaiah</hi> to his People, <hi>Say ye not a con<g ref="char:EOLhyphen"/>federacy to them to whom this People ſhall ſay a Confederacy, neither fear ye their Fear, nor be afraid; ſanctifie the Lord of Hoſt himſelf, and let him be your</hi> FEAR, <hi>and let him be your Dread,</hi> Iſa. 8.12, 13. Chriſt Jeſus, who is Firſt &amp; Laſt, which was dead &amp; is alive, &amp; lives fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever<g ref="char:EOLhyphen"/>more, ſaid unto the Church in <hi>Smirna, Fear none of theſe things which thou ſhalt ſuffer; behold the Devil ſhall caſt ſome of you into Priſon, that you may be tryed; and ye ſhall have Tribulation ten days: be thou Faith<g ref="char:EOLhyphen"/>ful unto Death, &amp; I will give thee a Crown of Life,</hi> Rev. 2.10.</p>
+            <p>As concerning the Wicked, the Apoſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaith, <hi>There is</hi> NO FEAR <hi>of God before their Eyes,</hi> Rom. 3.18. &amp; <hi>Pſalm</hi> 36.1. Again, <hi>And un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Man he ſaid, Behold, the</hi> FEAR <hi>of the Lord, that is Wiſdom; and to de<g ref="char:EOLhyphen"/>part from Evil, is <g ref="char:V">Ʋ</g>nderſtanding,</hi> Job 28 28. Again, <hi>The Fear of the Lord is the beginning of Wiſdom,</hi> Pſal. 111.10. Again, <hi>The Fear of
+<pb n="56" facs="tcp:101824:27"/>the Lord is the beginning of Knowledge; but Fools deſpiſe Wiſdom and Inſtruction,</hi> Prov. 1.7. Again, ſpeaking of the Wicked, he ſaith, <hi>They hated Knowledge, and did</hi> NOT <hi>chuſe the</hi> FEAR <hi>of the Lord; they would none of my Counſel, they would none of my Reproof, therefore ſhall they eat of their own Way, and be filled with their own Devices, for the turning away of the Simple (or Ignorant) ſhall ſlay them, and the proſperity of Fools ſhall deſtroy them; but whoſo hearkeneth unto me ſhall dwell ſafely, and ſhall be quiet from fear of Evil,</hi> verſe the 29th to the end. Here God ſpeaking by <hi>Solomon,</hi> ſaith, <hi>The Fear of the Lord is the beginning of Knowledge,</hi> verſ. 7. and in verſ. 29. he com<g ref="char:EOLhyphen"/>plaineth of the wicked, ſaying, <hi>They hated Knowledge, and did not chuſe the Fear of the Lord.</hi> Therefore Miſery and Deſtruction came up<g ref="char:EOLhyphen"/>on them; but ſaith God, <hi>Whoſo hearkeneth unto me, ſhall dwell ſafely, and ſhall be quiet from fear of Evil.</hi> So thoſe who chuſe Gods Fear, and take his Counſel, are kept by his mighty Power, in that which is well pleaſing to him; and ſuch are not terrified with the fear of Evil, for they know God to be their Keeper, who keeps them out of the Evil that is in the World, and from the wrath and puniſhment which he will bring upon the Wicked, who chuſe not his ſear, nor take his counſel, who ſaith, <hi>Be ye Holy, for I the Lord your God am Holy.</hi> Here God diſtinguiſheth betwixt <hi>Godly Fear,</hi> which the <hi>Godly</hi> do ſtedfaſtly abide in, and the fear of Evil which brings Torment upon the Ungodly: Again, <hi>The Fear of the Lord is a Fountain of Life, to depart out of the Snares of Death,</hi> Prov. 14.27. Again, <hi>By the Fear of the Lord men depart from Evil,</hi> Chap. 16.6. Again, <hi>Better is a little with the Fear of the Lord, than great Treaſure and Trouble therewith,</hi> Chap. 15.16. The Apoſtle <hi>Peter</hi> exhorted the Saints, ſaying, <hi>Fear God,</hi> 1 Pet. 2.17. Again, the <hi>Angel</hi> that preached the everlaſting Goſpel, ſaith, <hi>Fear God and give Glory to him,</hi> Rev. 14.7.</p>
+            <p>Many more <hi>Scripture-Teſtimonies</hi> might be brought to confirm this great Truth <hi>(viz.)</hi> that Godly Fear is to be continued in by Godly Men and Women unto the end of their dayes upon Earth; but what I have already written, doth ſufficiently confute the <hi>Ranting</hi> Doctrines, and Notions of this prophane Scribler: And though I dearly own the Teſtimony of the holy Scriptures, and therefore bring them for the confirmation of this great Truth, yet that in which my greateſt aſ<g ref="char:EOLhyphen"/>ſurance lies, is the living experience that I have had through many Years exerciſe of the excellency and preciouſneſs of Godly Fear,
+<pb n="49" facs="tcp:101824:27" rendition="simple:additions"/>or the holy Fear of God, my Heart and Soul is deeply affect<g ref="char:EOLhyphen"/>ed therewith, becauſe of the preciouſneſs and excellency thereof, therefore I commend it unto all People, as that which is indiſ<g ref="char:EOLhyphen"/>penſably needful to be come into and kept in, without which no Man or Woman can come to Peace and Reſt with God: And I tenderly exhort and warn the Sons and Daughters of men, to chuſe the Fear of the Lord God, in whoſe hand their Life is, and to flee from all Ranting <hi>Atheiſtical</hi> Books, Doctrines, Principles and Practices which would keep them out of, or lead them out of Godly Fear, or the holy Fear of God, and every one apply your Hearts to the Spirit of Truth which God hath ſent, which ſhews you what is good and what is evil, believe in that, and attend upon it, and be careful to keep out of that which you know to be Evil, and let your care be to obey God, in what you know to be your duty; and as you are obedient to him, in what he has made known unto you to be your duty, that which is further needful for you to know, which you yet know not, God will freely make it known unto you.</p>
+            <p>That which is and hath been the hurt of many, is their hun<g ref="char:EOLhyphen"/>ting after the Knowledge of the Secrets and Myſteries of God in their SELF-WILL, while they have neglected to obey God in that they already knew, and by this means many have hunted themſelves into <hi>Ranteriſm</hi> and <hi>Atheiſm,</hi> which is la<g ref="char:EOLhyphen"/>mentable to behold at this Day.</p>
+            <p>Others there are who deſire not to know any thing, but the following the fooliſh fleſhly Luſts and vile Affections which War againſt their Souls, who giving up themſelves thereto, and purſuing the ſame with a greedy Appetite, become ſwallowed up therein, and drowned in Perdition or Deſtruction thereby; as the holy Apoſtles have teſtified; ſee 1 <hi>Tim.</hi> 6.9. and 1 <hi>Pet.</hi> 2.11. The Apoſtle ſaith, <hi>The Lord knoweth how to deliver the Godly out of Temptations, and to reſerve the <g ref="char:V">Ʋ</g>njuſt unto the day of Judgment to be puniſhed; but chiefly them that walk after the Fleſh, in the Luſt of <g ref="char:V">Ʋ</g>ncleanneſs, and deſpiſe Government, pre<g ref="char:EOLhyphen"/>ſumptuous are they,</hi> SELF-WILLED, <hi>&amp;c. Such ſpeak Evil of the things they underſtand not, and ſhall utterly Periſh in their own Corruption, having Eyes full of Adultery, and that cannot ceaſe from Sin, beguling unſtable Souls; an Heart they have exerci<g ref="char:EOLhyphen"/>ſed
+<pb n="50" facs="tcp:101824:28"/>with Covetous Practices; curſed Children, which have for ſaken the right Way; theſe are Wells without Water, Clouds that are carried with a Tempeſt, to whom the Miſt of Darkneſs is reſerved forever: For when they ſpeak great ſwelling Words of Vanity, they allure through the Luſts of the Fleſh, through much Wantonneſs thoſe that were</hi> CLEAN ESCAPED <hi>from them, who live in Error; while they promiſe them Liberty, they them<g ref="char:EOLhyphen"/>ſelves are the Servants of Corruption,</hi> &amp;c. ſee 2 <hi>Pet.</hi> 2. verſe 9, 10, 12, 13, 14, 15. to the end, read the Chapter through. Again, the Apoſtle ſaith, <hi>This ſecond Epiſtle, Beloved, I now write unto you, in both which I ſtir up your pure minds, by way of remembrance, that ye may be mindful of the Words which were ſpo<g ref="char:EOLhyphen"/>ken before by the holy Prophets, and of the</hi> COMMAND<g ref="char:EOLhyphen"/>MENT <hi>of us the Apoſtles of the Lord and Saviour; knowing this firſt, that there ſhall come in the laſt dayes Scoffers, walking after their own Luſt,</hi> &amp;c. Chap. 3. Verſe 1, 2, 3. Again, <hi>Love not the World, neither the things that are in the World: If any man love the World, the Love of the Father is not in him; for all that is in the World, the Luſt of the Fleſh, the Luſt of the Eyes, and the Pride of Life, is not of the Father, but is of the World; and the World paſſeth away, and the Luſt thereof; but he that doth the Will of God abideth forever,</hi> 1 John 2.15, 16, 17. <hi>Jude</hi> the Ser<g ref="char:EOLhyphen"/>vant of Jeſus Chriſt, writing againſt the falſe Teachers and rebel<g ref="char:EOLhyphen"/>lious Apoſtates, ſaid, <hi>They walk after their own Luſts,</hi> &amp;c. but ſaid unto the Believers, <hi>Beloved, remember ye the Words which were ſpoken before of the Apoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les of our Lord Jeſus, how that they told you, there ſhould be Mockers in the laſt Times, who ſhould walk after their own ungodly Luſts,</hi> Jude 16.17, 18.</p>
+            <p>Oh Reader! ſeriouſly read and ponder theſe weighty and holy Sayings of the Apoſtles of Chriſt; and flee from thoſe fleſh<g ref="char:EOLhyphen"/>ly and ungodly Luſts, which War againſt the Soul, and drown thoſe in Deſtruction who do not unfeignedly Repent thereof, and turn therefrom while God gives them a Time of Viſitation, while he viſits them by his holy Spirit of Grace, Life and Strength, to lead them thereby to unfeigned Repentance, and to redeem them thereby out of all ſinful and ungodly Luſt: O bleſſed are all they who turn unto him, while he ſtrives with
+<pb n="51" facs="tcp:101824:28" rendition="simple:additions"/>them to gather them unto himſelf: but moſt miſerable are thoſe who turn not unto him, but go on after their own un<g ref="char:EOLhyphen"/>godly Luſts, who ſet at nought all Gods Counſel, both that which is immediately given them by his Spirit inwardly, and alſo that which is given by him through his Inſtruments, his Pro<g ref="char:EOLhyphen"/>phets, Apoſtles, and his faithful Servants, which is witneſſed unto by the Light of Chriſt Jeſus, wherewith every man that cometh into the World is lighted, according to <hi>John</hi> 1.9. as is ſhewed before. Of this evil Generation the Prophet com<g ref="char:EOLhyphen"/>plains, they ſay unto God, <hi>Depart from us, for we deſire not the Knowledge of thy Wayes: What is the Almighty that we ſhould ſerve him? and what profit ſhould we have if we Pray unto him?</hi> Job 21.14, 15. and 22.17. The Holy Prophet ſaid, <hi>I ſought the Lord, and he heard me,</hi> &amp;c. <hi>The Angel of the Lord encam<g ref="char:EOLhyphen"/>peth round about them that fear him, and delivereth them. O! taſte and ſee that the Lord is good; bleſſed is the Man that truſt<g ref="char:EOLhyphen"/>eth in him. O, fear the Lord, ye his Saints; for there is no want to them that fear him: The young Lyons do lack, and ſuffer Hunger; but they that ſeek the Lord ſhall not want any good thing. Come ye Children, hearken unto me, and I will teach you the Fear of the Lord. What man is he that deſireth Life, loveth Dayes, that he may ſee good? Keep thy Tongue from Evil, and thy Lips from ſpeaking Guile. Depart from Evil, and do Good; ſeek Peace and purſue it. The Eyes of the Lord are upon the Righte<g ref="char:EOLhyphen"/>ous, and his Ears are open unto their Cry. The Face of the Lord is againſt them that do Evil, to cut off the remembrance of them;</hi> &amp;c. <hi>The Righteous cry, and the Lord heareth, and delivereth them out of all their Troubles. The Lord is nigh unto them that are of a broken Heart, and ſaveth ſuch as be of a contrite Spirit. Many are the Afflictions of the Righteous; but the Lord deliver<g ref="char:EOLhyphen"/>eth him out of them all,</hi> Pſalm 38.4. to the 19th.</p>
+            <p>Thus Reader the <hi>Pſalmiſt</hi> declares of the Mercies and Judg<g ref="char:EOLhyphen"/>ments of the Lord, as he had ſeen and experienced them.</p>
+            <p>The Author of the Scoffing Book, called, <hi>Work for a Cooper,</hi> would no doubt be eſteemed a Religious man: The Apoſtle ſaith, <hi>If any man among you ſeem to be Religious, and bridleth not
+<pb n="52" facs="tcp:101824:29"/>his Tongue — this man's Religion is Vain. Pure Religion and <g ref="char:V">Ʋ</g>ndefiled before God and the Father, is this, to viſit the Father<g ref="char:EOLhyphen"/>leſs and Widows in their Affliction, and to keep himſelf unſpotted from the World,</hi> James 1.26, 27. That this man hath not a Bridle to his Tongue, and that his Religion is Vain; take his own Book for proof, which is plentifully furniſhed with Lyes, Scoffing and Railing, a little of which I may here Collect.</p>
+            <p>
+               <hi>Thomas VVynne</hi> is known amongſt his Neighbours to be a Sober Honeſt Man; I have known him for above Twenty Years laſt paſt, and I never knew nor heard other of him, till this prophane Scoffers Pamphlet appeared againſt him: Theſe are the Names he gives him, viz. <hi>Our ſecond</hi> Tom <hi>of Bedlam,</hi> pag. 6. <hi>Our Cinque and Cater,</hi> pag. 7. Note here, this vain man ſpeaks here more like a prophane Player at Dice, then a ſober Religious man. Again, <hi>Our wiſe man of</hi> Gotham<g ref="char:punc">▪</g> pag. 8. Again, ſpeaking of T.W. and his Friends, ſaith, <hi>Their Hocuſpocus Tricks are now much laid aſide,</hi> pag. 13. Again, ſpeaking of the ſaid People, ſaith, <hi>That they are the moſt For<g ref="char:EOLhyphen"/>mal Coxcombs produceable in this Age,</hi> pag. 15. Again, pag. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. he renders T.W. <hi>A beaſtly</hi> Quaker. Again, ſcoffing at T.W. ſaith, <hi>He knoweth not what Conſanguinity there is betwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Porpos and the VVhale, or the Craw-Fiſh and the Lobſter,</hi> pag. 21. Again, he call him <hi>A Robber upon Gods High Way,</hi> pag. 23. Again, he calls him <hi>Wicked Ferry-man of Hell,</hi> pag. 24.</p>
+            <p>Thus I have collected a few of his bad Words and ill Names he has given to an Honeſt Man; by which the <hi>Reader</hi> may ſee that his Tongue is not bridled as it ought to be; and that his Religion is vain.</p>
+            <p>Now I ſhall collect a few of his Lyes. He ſayes, <hi>The</hi> Quakers <hi>would endeavour to obtrude that they had been with God, &amp;c. and have received the Spirit of Prophecy, with the Gift of Miracles, and all other that God had or could beſtow,</hi> pag. 12.</p>
+            <p>
+               <hi>Anſw.</hi> He names no perſons on whom he faſtens this his <hi>charge,</hi> but throws it at the <hi>Quakers</hi> in General: I ſay, it is a Horrid
+<pb n="53" facs="tcp:101824:29" rendition="simple:additions"/>Slander, proceeding from the Father of Lyes; for though we do own that God hath given the Manifeſtion of his Spirit to profit withal; and ſome amongſt us do prophecy and teſtifie of Chriſt and of God in the Spirit, which he hath given; yet we never ſaid, That we had received all other that God had or could beſtow; This is an Abominable Slander; their is none that will believe him herein, but thoſe who are given up to believe Lyes.</p>
+            <p>Again, <hi>That they could to a minute fore-tell the Laſt and Dread<g ref="char:EOLhyphen"/>ful Day of Judgment.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Charge is general againſt the <hi>Quakers,</hi> he names no Perſon or Perſons that ſaid ſo. I return it as a Lye forged againſt the People of God, and I exhort him to Repent of that and the reſt of his Wickedneſs.</p>
+            <p>Again thus, <hi>And heal more Diſeaſes then all the World could poſſibly need help for.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is another horrid Slander that the Wicked One has in Envy led him to caſt upon us; the Lord Rebuke thee, thou Prophane Man.</p>
+            <p>Again thus, <hi>That they and they only were thoſe of whom it was ſaid, They ſhould lay their hands upon the Sick, and they ſhould recover.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is another horrid Slander, proceeding from the Father of Lyes, for which God will bring thee to Judgment.</p>
+            <p>Again thus, <hi>And that God meant them only, when he ſaid, I will pour my Spirit upon all Fleſh.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is another horrid Lye; for we believe that he pour<g ref="char:EOLhyphen"/>ed forth his Spirit upon his Prophets and Apoſtles, his Sons and Daughters and Hand-maids, according to his Promiſe, in former time; and he is pouring it ſorth in this Day, and we believe he will pour it ſorth, according to his Promiſe, upon all Fleſh; but we do not believe that the People called <hi>Quakers</hi> are only intended to be that <hi>All Fleſh.</hi>
+            </p>
+            <p>Mark, In the compaſs of nine Lines he has told five Lyes in pag. 12. there being five in ſo little compaſs, <hi>Reader,</hi> thou mayſt conclude there is a great many more in the whole Book: Theſe few here may ſuffice to give thee a taſte and ſence of the Wick<g ref="char:EOLhyphen"/>edneſs
+<pb n="54" facs="tcp:101824:30"/>of the man, and to ſhew thee how Wickedly he deals with the People called <hi>Quakers.</hi> It is our deſire that he may Repent of theſe things, and do ſo no more, that ſo he may know forgiveneſs of the ſame, and may come to Peace and Reſt with God in his Latter-end. God ſpeaking of his People, ſaid, <hi>Surely they are my People, Children that will not Lye; ſo he was their Saviour,</hi> Iſa. 63.8. <hi>A Faithful Witneſs will not Lye; but a Falſe VVitneſs will utter Lyes,</hi> Prov. 14.5. <hi>Ye are of your Father the Devil, and the Luſts of your Father you will do; he was a Murderer from the beginning, and abode not in the Truth; when he speaketh a Lye, he speaketh of his own, for he is a Lyar, and the Father of it,</hi> John 8.44. <hi>A Falſe Witneſs ſhall not be <g ref="char:V">Ʋ</g>npuniſhed, and he that ſpeaketh Lyes ſhall not eſcape,</hi> Prov. 19.5. <hi>They bend their Tongues like Bows for Lyes, but they are not valiant for the Truth,</hi> Jer. 9.3.</p>
+            <p>In this POSTSCRIPT I have ſhewed the Falſeneſs and Wickedneſs of this Scornful man, and have rebuked him in the Love and Fear of God; and I unfeignedly deſire his Repentance and Salvation, who am a Lover of <hi>Truth</hi> and <hi>Righteouſneſs,</hi> who deſires the <hi>Eternal good of all People,</hi> but I Hate <hi>Lying, Envy,</hi> and <hi>all Wickedneſs.</hi>
+            </p>
+            <closer>
+               <signed>William Gibſon.</signed> 
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the 25th of the 8th Moneth, 1679.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:101824:30" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
